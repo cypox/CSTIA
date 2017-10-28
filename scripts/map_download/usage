@@ -1,0 +1,3 @@
+./download_maps.py map_list dofus-cms http://staticns.ankama.com/dofus/gamedata
+./download_sql_maps.py maps_fmt.csv dofus-cms http://soulsteal.eu
+
