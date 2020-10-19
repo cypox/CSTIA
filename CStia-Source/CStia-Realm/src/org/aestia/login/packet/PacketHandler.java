@@ -44,6 +44,14 @@ public class PacketHandler {
 				ServerList.get(client);
 				break;
 			}
+			case "Ap": {
+				System.out.println("This packet is coming from a retro client! Skipping.");
+				break;
+			}
+			case "Ai": {
+				System.out.println("This packet is coming from a retro client! Skipping.");
+				break;
+			}
 			default:
 				client.kick();
 				break;

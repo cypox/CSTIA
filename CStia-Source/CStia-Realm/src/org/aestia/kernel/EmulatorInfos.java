@@ -8,7 +8,7 @@ public enum EmulatorInfos
 {
     RELEASE("RELEASE", 0, 1.01), 
     SOFT_NAME("SOFT_NAME", 1, "Aestia Login v" + EmulatorInfos.RELEASE.value), 
-    HARD_NAME("HARD_NAME", 2, EmulatorInfos.SOFT_NAME + " pour dofus " + Main.config.getConfigFile().getString("network.version"));
+    HARD_NAME("HARD_NAME", 2, EmulatorInfos.SOFT_NAME + " pour dofus " + Main.config.getVersion());
     
     private String string;
     private double value;

@@ -49,8 +49,18 @@ public class Config
             this.exchangePort = Config.configFile.getInt("network.exchangePort");
         }
         catch (Exception e) {
+            this.host = "127.0.0.1";
+            this.user = "cypox";
+            this.pass = "Dexath";
+            this.databaseName = "cstia_game";
+            this.port = 3306;
+            this.loginIp = "127.0.0.1";
+            this.exchangeIp = "127.0.0.1";
+            this.version = "1.33.6";
+            this.loginPort = 478;
+            this.exchangePort = 451;
             System.out.println(" <> Config illisible ou champs manquants: " + e.getMessage());
-            System.exit(1);
+            //System.exit(1);
         }
     }
     

@@ -35,7 +35,6 @@ public class Main
             exit();
             System.exit(0);
         }
-        System.err.println("TEST2");
         Main.database.getServerData().load(null);
         Main.config.setExchangeServer(new ExchangeServer());
         Main.config.getExchangeServer().start();
