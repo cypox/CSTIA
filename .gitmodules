@@ -1,6 +1,0 @@
-[submodule "CStia-Game"]
-	path = CStia-Game
-	url = ./CStia-Game/
-[submodule "CStia-Realm"]
-	path = CStia-Realm
-	url = ./CStia-Realm/
