@@ -1,0 +1,67 @@
+[Version 1]
+Début Du projet MenuAdmin
+
+
+
+[Version 2]
+-> Réduction des choix commandes Dans le Panel du MenuAdmin
+-> Recherche plus précise
+-> Réorganisation des codes sources (Grand désordre dans la V1)
+-> Ajout / Modification des catégories
+-> Ajout Popup Dans information sur le MenuAdmin
+-> Ajout / Modification de toutes les phrases du MenuAdmin (fun / présence)
+-> Ajout de certaines commandes
+-> Meilleur organisation des commandes
+
+
+[Version 3]
+-> Réoganisation du Panel du MenuAdmin
+-> Ouverture de la console automatique lors de la connexion
+-> Ajout annonce automatique lors de votre connexion au serveur (Le joueur X vient de se connecter)
+-> Ajout de commande Ticket / Ticketliste (ONEMU 2.0.0)
+-> Modification commande dans information "Membre du staff en ligne" (marche pas dans la V2)
+-> Ajout commande dans information "Uptime Du serveur" = Affiche l'uptime du serveur
+-> Ajout commande dans Ajouter un PNJ/NPC "Rechargement" = Recharge les PNJ et les items
+-> Ajout / Modification / Réorganisation des d'avertissement.
+-> Ajout sanction JAIL / UNJAIL (OnemuReload)
+-> Ajout de pub. Pub sur le serveur et Pub sur le MenuAdmin
+-> Ajout création d'items et de panoplie
+-> Ajout Gestionnaire de looks
+-> Ajout de phrases (Fun et pub)
+-> Tout les codes source sont Organisé et bien ordonnés
+
+
+[Version 4]
+-> Ajout téléportation île Vip dans mes commandes
+-> Réorganisation du Panel du MenuAdmin
+-> Réduction considérable de la taille du Panel du MenuAdmin
+-> Modification (Mes commandes / Me téléporter a l'enclos) (Ne fonctionne pas dans la V3)
+-> Modification (Mes commandes / Empêcher les agressions) (Ne fonctionne pas dans la V3)
+-> Ajout de phrases culte de la télé ou du cinéma. Par exemple "Il va faire tout noir"
+-> Ajout commande DelNpc
+-> Ajout de pub. Pub Pour le Recrutement Staff
+-> Ajout commande dans "Mes commandes"
+
+[Version 5]
+-> Ajout de la commandes "viewjail" dans la catégorie Informations
+-> Ajout commande"Prevenir d'une sauvegarde du serveur" dans la catégorie Maintenance
+-> Revu de la section "kick et bloquer l'acces au serveur" dans la catégorie Maintenance
+-> revu des commandes dans la catégorie signaler ma présence
+-> Ajout de sanction prison (Prison de pierre)
+-> signaler ma présence => Mon Statut
+
+
+[Version 6]
+-> Ajout MP en rouge pour les membres du Staff
+-> Réorganisation des DONS
+-> Debug de la commande "empêcher les agressions"
+-> Ajout commande "activer le copier/coller" dans la catégorie "Mes commandes"
+-> Ajout de la commande "Bloquer les mp" et ajout de "Bloquer les mp de tout le monde sauf a mes amis"
+-> Revu des phrases fun
+-> Revu Des Mp en rouge
+-> Avertissement mode MP en rouge.
+-> Réduction CONSIDERABLE de la taille du Panel du MenuAdmin
+
+[Version 7]
+-> Retrait de morph/size et teleportation dans Mes commandes
+-> Supression de beaucoup de catégorie dans Administration

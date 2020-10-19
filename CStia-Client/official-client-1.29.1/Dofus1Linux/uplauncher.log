@@ -1,0 +1,265 @@
+DEBUG [2017-Oct-11 21:35:37](src/core/Core.cpp:206) ########################### NEW UPLAUNCHER INSTANCE #######################################
+INFO  [2017-Oct-11 21:35:37](src/core/Core.cpp:216) Version de l'updater: 1.8 - dofus
+DEBUG [2017-Oct-11 21:35:37](src/core/Core.cpp:218) Chemin de l'exe /home/cypox/Projects/Dofus/Client/Dofus1Linux/UpLauncher
+DEBUG [2017-Oct-11 21:35:37](src/core/Core.cpp:219) Rep d'execution /home/cypox/Projects/Dofus/Client/Dofus1Linux
+DEBUG [2017-Oct-11 21:35:38](src/core/Core.cpp:258) parameters count : 1
+DEBUG [2017-Oct-11 21:35:38](src/core/Core.cpp:261) getExeFileDirectory : /home/cypox/Projects/Dofus/Client/Dofus1Linux
+DEBUG [2017-Oct-11 21:35:38](src/core/Core.cpp:262) current_path: /home/cypox/Projects/Dofus/Client/Dofus1Linux
+INFO  [2017-Oct-11 21:35:38](src/core/Core.cpp:470) Lecture des options
+DEBUG [2017-Oct-11 21:35:38](src/core/Options.cpp:183) isLangSet : true
+INFO  [2017-Oct-11 21:35:38](src/core/Core.cpp:492) Downloader launched
+DEBUG [2017-Oct-11 21:35:39](src/ui/wx/ResourcesManager.cpp:95) Check if font is present: Verdana
+DEBUG [2017-Oct-11 21:35:39](src/ui/wx/ResourcesManager.cpp:105) Using font : 74 Verdana
+DEBUG [2017-Oct-11 21:35:39](src/ui/wx/component/ScrollingPanel.cpp:35) Taille du bouton : 12
+DEBUG [2017-Oct-11 21:35:39](src/ui/wx/component/ScrollingPanel.cpp:35) Taille du bouton : 12
+DEBUG [2017-Oct-11 21:35:39](src/ui/wx/SkinnedWindow.cpp:111) List news : 0xf45af700  List logs : 0xf4023010
+TRACE [2017-Oct-11 21:35:39](src/patch/LocalGameConfig.cpp:39) Lecture du games.xml : /home/cypox/Projects/Dofus/Client/Dofus1Linux/games.xml
+TRACE [2017-Oct-11 21:35:39](src/core/Core.cpp:814) Fichier de config distant demande : http://dl.ak.ankama.com/games/dofus/updater/linux/dofus_1.29.1.xml
+INFO  [2017-Oct-11 21:35:39](src/net/HttpFtpClient.cpp:333) On telecharge http://dl.ak.ankama.com/games/dofus/updater/linux/dofus_1.29.1.xml
+DEBUG [2017-Oct-11 21:35:39](src/net/HttpFtpClient.cpp:334) valeur des datas de sortie file: (nil)  -  string: 0xfffa2aa8
+DEBUG [2017-Oct-11 21:35:39](src/net/HttpFtpClient.cpp:517) Before perform
+DEBUG [2017-Oct-11 21:35:39](src/net/HttpFtpClient.cpp:519) After perform
+INFO  [2017-Oct-11 21:35:39](src/net/HttpFtpClient.cpp:531) taille du fichier : 237.000000
+DEBUG [2017-Oct-11 21:35:39](src/net/HttpFtpClient.cpp:539) Before curl cleanup
+DEBUG [2017-Oct-11 21:35:39](src/net/HttpFtpClient.cpp:542) After curl cleanup
+DEBUG [2017-Oct-11 21:35:39](src/net/HttpFtpClient.cpp:546) Flushing datas
+INFO  [2017-Oct-11 21:35:39](src/net/HttpFtpClient.cpp:333) On telecharge http://www.dofus.com/en/rss/news.xml
+DEBUG [2017-Oct-11 21:35:39](src/net/HttpFtpClient.cpp:334) valeur des datas de sortie file: (nil)  -  string: 0xfffa2b48
+DEBUG [2017-Oct-11 21:35:39](src/net/HttpFtpClient.cpp:517) Before perform
+DEBUG [2017-Oct-11 21:35:40](src/net/HttpFtpClient.cpp:519) After perform
+INFO  [2017-Oct-11 21:35:40](src/net/HttpFtpClient.cpp:531) taille du fichier : 31272.000000
+DEBUG [2017-Oct-11 21:35:40](src/net/HttpFtpClient.cpp:539) Before curl cleanup
+DEBUG [2017-Oct-11 21:35:40](src/net/HttpFtpClient.cpp:542) After curl cleanup
+DEBUG [2017-Oct-11 21:35:40](src/net/HttpFtpClient.cpp:546) Flushing datas
+TRACE [2017-Oct-11 21:35:40](src/core/Core.cpp:625) On vide le repertoire temporaire
+DEBUG [2017-Oct-11 21:35:40](src/ui/wx/wxUICore.cpp:335) On previent qu'il n'y a pas de mise a jour
+DEBUG [2017-Oct-11 21:35:41](src/ui/wx/SkinnedWindow.cpp:225) Temps du clic : 2017-Oct-11 19:35:41  / Temps du prochain lancement possible 2017-Oct-11 19:35:39
+DEBUG [2017-Oct-11 21:35:41](src/ui/wx/SkinnedWindow.cpp:229) Lancement du jeu
+DEBUG [2017-Oct-11 21:36:42](src/core/Core.cpp:206) ########################### NEW UPLAUNCHER INSTANCE #######################################
+INFO  [2017-Oct-11 21:36:42](src/core/Core.cpp:216) Version de l'updater: 1.8 - dofus
+DEBUG [2017-Oct-11 21:36:42](src/core/Core.cpp:218) Chemin de l'exe /home/cypox/Projects/Dofus/Client/Dofus1Linux/UpLauncher
+DEBUG [2017-Oct-11 21:36:42](src/core/Core.cpp:219) Rep d'execution /home/cypox/Projects/Dofus/Client/Dofus1Linux
+DEBUG [2017-Oct-11 21:36:43](src/core/Core.cpp:258) parameters count : 1
+DEBUG [2017-Oct-11 21:36:43](src/core/Core.cpp:261) getExeFileDirectory : /home/cypox/Projects/Dofus/Client/Dofus1Linux
+DEBUG [2017-Oct-11 21:36:43](src/core/Core.cpp:262) current_path: /home/cypox/Projects/Dofus/Client/Dofus1Linux
+INFO  [2017-Oct-11 21:36:43](src/core/Core.cpp:470) Lecture des options
+DEBUG [2017-Oct-11 21:36:43](src/core/Options.cpp:183) isLangSet : true
+INFO  [2017-Oct-11 21:36:43](src/core/Core.cpp:492) Downloader launched
+DEBUG [2017-Oct-11 21:36:44](src/ui/wx/ResourcesManager.cpp:95) Check if font is present: Verdana
+DEBUG [2017-Oct-11 21:36:44](src/ui/wx/ResourcesManager.cpp:105) Using font : 74 Verdana
+DEBUG [2017-Oct-11 21:36:44](src/ui/wx/component/ScrollingPanel.cpp:35) Taille du bouton : 12
+DEBUG [2017-Oct-11 21:36:44](src/ui/wx/component/ScrollingPanel.cpp:35) Taille du bouton : 12
+DEBUG [2017-Oct-11 21:36:44](src/ui/wx/SkinnedWindow.cpp:111) List news : 0xf45bac58  List logs : 0xf3f31248
+TRACE [2017-Oct-11 21:36:44](src/patch/LocalGameConfig.cpp:39) Lecture du games.xml : /home/cypox/Projects/Dofus/Client/Dofus1Linux/games.xml
+TRACE [2017-Oct-11 21:36:44](src/core/Core.cpp:814) Fichier de config distant demande : http://dl.ak.ankama.com/games/dofus/updater/linux/dofus_1.29.1.xml
+INFO  [2017-Oct-11 21:36:44](src/net/HttpFtpClient.cpp:333) On telecharge http://dl.ak.ankama.com/games/dofus/updater/linux/dofus_1.29.1.xml
+DEBUG [2017-Oct-11 21:36:44](src/net/HttpFtpClient.cpp:334) valeur des datas de sortie file: (nil)  -  string: 0xff9d3c38
+DEBUG [2017-Oct-11 21:36:44](src/net/HttpFtpClient.cpp:517) Before perform
+DEBUG [2017-Oct-11 21:36:45](src/net/HttpFtpClient.cpp:519) After perform
+INFO  [2017-Oct-11 21:36:45](src/net/HttpFtpClient.cpp:531) taille du fichier : 237.000000
+DEBUG [2017-Oct-11 21:36:45](src/net/HttpFtpClient.cpp:539) Before curl cleanup
+DEBUG [2017-Oct-11 21:36:45](src/net/HttpFtpClient.cpp:542) After curl cleanup
+DEBUG [2017-Oct-11 21:36:45](src/net/HttpFtpClient.cpp:546) Flushing datas
+INFO  [2017-Oct-11 21:36:45](src/net/HttpFtpClient.cpp:333) On telecharge http://www.dofus.com/en/rss/news.xml
+DEBUG [2017-Oct-11 21:36:45](src/net/HttpFtpClient.cpp:334) valeur des datas de sortie file: (nil)  -  string: 0xff9d3cd8
+DEBUG [2017-Oct-11 21:36:45](src/net/HttpFtpClient.cpp:517) Before perform
+DEBUG [2017-Oct-11 21:36:45](src/net/HttpFtpClient.cpp:519) After perform
+INFO  [2017-Oct-11 21:36:45](src/net/HttpFtpClient.cpp:531) taille du fichier : 31272.000000
+DEBUG [2017-Oct-11 21:36:45](src/net/HttpFtpClient.cpp:539) Before curl cleanup
+DEBUG [2017-Oct-11 21:36:45](src/net/HttpFtpClient.cpp:542) After curl cleanup
+DEBUG [2017-Oct-11 21:36:45](src/net/HttpFtpClient.cpp:546) Flushing datas
+TRACE [2017-Oct-11 21:36:45](src/core/Core.cpp:625) On vide le repertoire temporaire
+DEBUG [2017-Oct-11 21:36:45](src/ui/wx/wxUICore.cpp:335) On previent qu'il n'y a pas de mise a jour
+DEBUG [2017-Oct-11 21:36:48](src/ui/wx/SkinnedWindow.cpp:225) Temps du clic : 2017-Oct-11 19:36:48  / Temps du prochain lancement possible 2017-Oct-11 19:36:44
+DEBUG [2017-Oct-11 21:36:48](src/ui/wx/SkinnedWindow.cpp:229) Lancement du jeu
+DEBUG [2017-Oct-11 21:39:13](src/core/Core.cpp:206) ########################### NEW UPLAUNCHER INSTANCE #######################################
+INFO  [2017-Oct-11 21:39:13](src/core/Core.cpp:216) Version de l'updater: 1.8 - dofus
+DEBUG [2017-Oct-11 21:39:13](src/core/Core.cpp:218) Chemin de l'exe /home/cypox/Projects/Dofus/Client/Dofus1Linux/UpLauncher
+DEBUG [2017-Oct-11 21:39:13](src/core/Core.cpp:219) Rep d'execution /home/cypox/Projects/Dofus/Client/Dofus1Linux
+DEBUG [2017-Oct-11 21:39:14](src/core/Core.cpp:258) parameters count : 1
+DEBUG [2017-Oct-11 21:39:14](src/core/Core.cpp:261) getExeFileDirectory : /home/cypox/Projects/Dofus/Client/Dofus1Linux
+DEBUG [2017-Oct-11 21:39:14](src/core/Core.cpp:262) current_path: /home/cypox/Projects/Dofus/Client/Dofus1Linux
+INFO  [2017-Oct-11 21:39:14](src/core/Core.cpp:470) Lecture des options
+DEBUG [2017-Oct-11 21:39:14](src/core/Options.cpp:183) isLangSet : true
+INFO  [2017-Oct-11 21:39:14](src/core/Core.cpp:492) Downloader launched
+DEBUG [2017-Oct-11 21:39:15](src/ui/wx/ResourcesManager.cpp:95) Check if font is present: Verdana
+DEBUG [2017-Oct-11 21:39:15](src/ui/wx/ResourcesManager.cpp:105) Using font : 74 Verdana
+DEBUG [2017-Oct-11 21:39:15](src/ui/wx/component/ScrollingPanel.cpp:35) Taille du bouton : 12
+DEBUG [2017-Oct-11 21:39:15](src/ui/wx/component/ScrollingPanel.cpp:35) Taille du bouton : 12
+DEBUG [2017-Oct-11 21:39:15](src/ui/wx/SkinnedWindow.cpp:111) List news : 0xf44d6f00  List logs : 0xf4039430
+TRACE [2017-Oct-11 21:39:15](src/patch/LocalGameConfig.cpp:39) Lecture du games.xml : /home/cypox/Projects/Dofus/Client/Dofus1Linux/games.xml
+TRACE [2017-Oct-11 21:39:15](src/core/Core.cpp:814) Fichier de config distant demande : http://dl.ak.ankama.com/games/dofus/updater/linux/dofus_1.29.1.xml
+INFO  [2017-Oct-11 21:39:15](src/net/HttpFtpClient.cpp:333) On telecharge http://dl.ak.ankama.com/games/dofus/updater/linux/dofus_1.29.1.xml
+DEBUG [2017-Oct-11 21:39:15](src/net/HttpFtpClient.cpp:334) valeur des datas de sortie file: (nil)  -  string: 0xffb9cff8
+DEBUG [2017-Oct-11 21:39:15](src/net/HttpFtpClient.cpp:517) Before perform
+DEBUG [2017-Oct-11 21:39:15](src/net/HttpFtpClient.cpp:519) After perform
+INFO  [2017-Oct-11 21:39:15](src/net/HttpFtpClient.cpp:531) taille du fichier : 237.000000
+DEBUG [2017-Oct-11 21:39:15](src/net/HttpFtpClient.cpp:539) Before curl cleanup
+DEBUG [2017-Oct-11 21:39:15](src/net/HttpFtpClient.cpp:542) After curl cleanup
+DEBUG [2017-Oct-11 21:39:15](src/net/HttpFtpClient.cpp:546) Flushing datas
+INFO  [2017-Oct-11 21:39:15](src/net/HttpFtpClient.cpp:333) On telecharge http://www.dofus.com/en/rss/news.xml
+DEBUG [2017-Oct-11 21:39:15](src/net/HttpFtpClient.cpp:334) valeur des datas de sortie file: (nil)  -  string: 0xffb9d098
+DEBUG [2017-Oct-11 21:39:15](src/net/HttpFtpClient.cpp:517) Before perform
+DEBUG [2017-Oct-11 21:39:16](src/net/HttpFtpClient.cpp:519) After perform
+INFO  [2017-Oct-11 21:39:16](src/net/HttpFtpClient.cpp:531) taille du fichier : 31272.000000
+DEBUG [2017-Oct-11 21:39:16](src/net/HttpFtpClient.cpp:539) Before curl cleanup
+DEBUG [2017-Oct-11 21:39:16](src/net/HttpFtpClient.cpp:542) After curl cleanup
+DEBUG [2017-Oct-11 21:39:16](src/net/HttpFtpClient.cpp:546) Flushing datas
+TRACE [2017-Oct-11 21:39:16](src/core/Core.cpp:625) On vide le repertoire temporaire
+DEBUG [2017-Oct-11 21:39:16](src/ui/wx/wxUICore.cpp:335) On previent qu'il n'y a pas de mise a jour
+DEBUG [2017-Oct-11 21:39:22](src/ui/wx/SkinnedWindow.cpp:225) Temps du clic : 2017-Oct-11 19:39:22  / Temps du prochain lancement possible 2017-Oct-11 19:39:15
+DEBUG [2017-Oct-11 21:39:22](src/ui/wx/SkinnedWindow.cpp:229) Lancement du jeu
+DEBUG [2017-Oct-11 21:40:33](src/core/Core.cpp:206) ########################### NEW UPLAUNCHER INSTANCE #######################################
+INFO  [2017-Oct-11 21:40:33](src/core/Core.cpp:216) Version de l'updater: 1.8 - dofus
+DEBUG [2017-Oct-11 21:40:33](src/core/Core.cpp:218) Chemin de l'exe /home/cypox/Projects/Dofus/Client/Dofus1Linux/UpLauncher
+DEBUG [2017-Oct-11 21:40:33](src/core/Core.cpp:219) Rep d'execution /home/cypox/Projects/Dofus/Client/Dofus1Linux
+DEBUG [2017-Oct-11 21:40:34](src/core/Core.cpp:258) parameters count : 1
+DEBUG [2017-Oct-11 21:40:34](src/core/Core.cpp:261) getExeFileDirectory : /home/cypox/Projects/Dofus/Client/Dofus1Linux
+DEBUG [2017-Oct-11 21:40:34](src/core/Core.cpp:262) current_path: /home/cypox/Projects/Dofus/Client/Dofus1Linux
+INFO  [2017-Oct-11 21:40:34](src/core/Core.cpp:470) Lecture des options
+DEBUG [2017-Oct-11 21:40:34](src/core/Options.cpp:183) isLangSet : true
+INFO  [2017-Oct-11 21:40:34](src/core/Core.cpp:492) Downloader launched
+DEBUG [2017-Oct-11 21:40:35](src/ui/wx/ResourcesManager.cpp:95) Check if font is present: Verdana
+DEBUG [2017-Oct-11 21:40:35](src/ui/wx/ResourcesManager.cpp:105) Using font : 74 Verdana
+DEBUG [2017-Oct-11 21:40:35](src/ui/wx/component/ScrollingPanel.cpp:35) Taille du bouton : 12
+DEBUG [2017-Oct-11 21:40:35](src/ui/wx/component/ScrollingPanel.cpp:35) Taille du bouton : 12
+DEBUG [2017-Oct-11 21:40:35](src/ui/wx/SkinnedWindow.cpp:111) List news : 0xf41ff960  List logs : 0xf3d4a828
+TRACE [2017-Oct-11 21:40:35](src/patch/LocalGameConfig.cpp:39) Lecture du games.xml : /home/cypox/Projects/Dofus/Client/Dofus1Linux/games.xml
+TRACE [2017-Oct-11 21:40:35](src/core/Core.cpp:814) Fichier de config distant demande : http://dl.ak.ankama.com/games/dofus/updater/linux/dofus_1.29.1.xml
+INFO  [2017-Oct-11 21:40:35](src/net/HttpFtpClient.cpp:333) On telecharge http://dl.ak.ankama.com/games/dofus/updater/linux/dofus_1.29.1.xml
+DEBUG [2017-Oct-11 21:40:35](src/net/HttpFtpClient.cpp:334) valeur des datas de sortie file: (nil)  -  string: 0xffe28818
+DEBUG [2017-Oct-11 21:40:35](src/net/HttpFtpClient.cpp:517) Before perform
+DEBUG [2017-Oct-11 21:40:35](src/net/HttpFtpClient.cpp:519) After perform
+INFO  [2017-Oct-11 21:40:35](src/net/HttpFtpClient.cpp:531) taille du fichier : 237.000000
+DEBUG [2017-Oct-11 21:40:35](src/net/HttpFtpClient.cpp:539) Before curl cleanup
+DEBUG [2017-Oct-11 21:40:35](src/net/HttpFtpClient.cpp:542) After curl cleanup
+DEBUG [2017-Oct-11 21:40:35](src/net/HttpFtpClient.cpp:546) Flushing datas
+INFO  [2017-Oct-11 21:40:35](src/net/HttpFtpClient.cpp:333) On telecharge http://www.dofus.com/en/rss/news.xml
+DEBUG [2017-Oct-11 21:40:35](src/net/HttpFtpClient.cpp:334) valeur des datas de sortie file: (nil)  -  string: 0xffe288b8
+DEBUG [2017-Oct-11 21:40:35](src/net/HttpFtpClient.cpp:517) Before perform
+DEBUG [2017-Oct-11 21:40:36](src/net/HttpFtpClient.cpp:519) After perform
+INFO  [2017-Oct-11 21:40:36](src/net/HttpFtpClient.cpp:531) taille du fichier : 31272.000000
+DEBUG [2017-Oct-11 21:40:36](src/net/HttpFtpClient.cpp:539) Before curl cleanup
+DEBUG [2017-Oct-11 21:40:36](src/net/HttpFtpClient.cpp:542) After curl cleanup
+DEBUG [2017-Oct-11 21:40:36](src/net/HttpFtpClient.cpp:546) Flushing datas
+TRACE [2017-Oct-11 21:40:36](src/core/Core.cpp:625) On vide le repertoire temporaire
+DEBUG [2017-Oct-11 21:40:36](src/ui/wx/wxUICore.cpp:335) On previent qu'il n'y a pas de mise a jour
+DEBUG [2017-Oct-11 21:40:37](src/ui/wx/SkinnedWindow.cpp:225) Temps du clic : 2017-Oct-11 19:40:37  / Temps du prochain lancement possible 2017-Oct-11 19:40:35
+DEBUG [2017-Oct-11 21:40:37](src/ui/wx/SkinnedWindow.cpp:229) Lancement du jeu
+DEBUG [2017-Oct-11 21:42:20](src/core/Core.cpp:206) ########################### NEW UPLAUNCHER INSTANCE #######################################
+INFO  [2017-Oct-11 21:42:20](src/core/Core.cpp:216) Version de l'updater: 1.8 - dofus
+DEBUG [2017-Oct-11 21:42:20](src/core/Core.cpp:218) Chemin de l'exe /home/cypox/Projects/Dofus/Client/Dofus1Linux/UpLauncher
+DEBUG [2017-Oct-11 21:42:20](src/core/Core.cpp:219) Rep d'execution /home/cypox/Projects/Dofus/Client/Dofus1Linux
+DEBUG [2017-Oct-11 21:42:21](src/core/Core.cpp:258) parameters count : 1
+DEBUG [2017-Oct-11 21:42:21](src/core/Core.cpp:261) getExeFileDirectory : /home/cypox/Projects/Dofus/Client/Dofus1Linux
+DEBUG [2017-Oct-11 21:42:21](src/core/Core.cpp:262) current_path: /home/cypox/Projects/Dofus/Client/Dofus1Linux
+INFO  [2017-Oct-11 21:42:21](src/core/Core.cpp:470) Lecture des options
+DEBUG [2017-Oct-11 21:42:21](src/core/Options.cpp:183) isLangSet : true
+INFO  [2017-Oct-11 21:42:21](src/core/Core.cpp:492) Downloader launched
+DEBUG [2017-Oct-11 21:42:22](src/ui/wx/ResourcesManager.cpp:95) Check if font is present: Verdana
+DEBUG [2017-Oct-11 21:42:22](src/ui/wx/ResourcesManager.cpp:105) Using font : 74 Verdana
+DEBUG [2017-Oct-11 21:42:22](src/ui/wx/component/ScrollingPanel.cpp:35) Taille du bouton : 12
+DEBUG [2017-Oct-11 21:42:22](src/ui/wx/component/ScrollingPanel.cpp:35) Taille du bouton : 12
+DEBUG [2017-Oct-11 21:42:22](src/ui/wx/SkinnedWindow.cpp:111) List news : 0xf41f9760  List logs : 0xf2c52220
+TRACE [2017-Oct-11 21:42:22](src/patch/LocalGameConfig.cpp:39) Lecture du games.xml : /home/cypox/Projects/Dofus/Client/Dofus1Linux/games.xml
+TRACE [2017-Oct-11 21:42:22](src/core/Core.cpp:814) Fichier de config distant demande : http://dl.ak.ankama.com/games/dofus/updater/linux/dofus_1.29.1.xml
+INFO  [2017-Oct-11 21:42:22](src/net/HttpFtpClient.cpp:333) On telecharge http://dl.ak.ankama.com/games/dofus/updater/linux/dofus_1.29.1.xml
+DEBUG [2017-Oct-11 21:42:22](src/net/HttpFtpClient.cpp:334) valeur des datas de sortie file: (nil)  -  string: 0xffd6d618
+DEBUG [2017-Oct-11 21:42:22](src/net/HttpFtpClient.cpp:517) Before perform
+DEBUG [2017-Oct-11 21:42:22](src/net/HttpFtpClient.cpp:519) After perform
+INFO  [2017-Oct-11 21:42:22](src/net/HttpFtpClient.cpp:531) taille du fichier : 237.000000
+DEBUG [2017-Oct-11 21:42:22](src/net/HttpFtpClient.cpp:539) Before curl cleanup
+DEBUG [2017-Oct-11 21:42:22](src/net/HttpFtpClient.cpp:542) After curl cleanup
+DEBUG [2017-Oct-11 21:42:22](src/net/HttpFtpClient.cpp:546) Flushing datas
+INFO  [2017-Oct-11 21:42:22](src/net/HttpFtpClient.cpp:333) On telecharge http://www.dofus.com/en/rss/news.xml
+DEBUG [2017-Oct-11 21:42:22](src/net/HttpFtpClient.cpp:334) valeur des datas de sortie file: (nil)  -  string: 0xffd6d6b8
+DEBUG [2017-Oct-11 21:42:22](src/net/HttpFtpClient.cpp:517) Before perform
+DEBUG [2017-Oct-11 21:42:23](src/net/HttpFtpClient.cpp:519) After perform
+INFO  [2017-Oct-11 21:42:23](src/net/HttpFtpClient.cpp:531) taille du fichier : 31272.000000
+DEBUG [2017-Oct-11 21:42:23](src/net/HttpFtpClient.cpp:539) Before curl cleanup
+DEBUG [2017-Oct-11 21:42:23](src/net/HttpFtpClient.cpp:542) After curl cleanup
+DEBUG [2017-Oct-11 21:42:23](src/net/HttpFtpClient.cpp:546) Flushing datas
+TRACE [2017-Oct-11 21:42:23](src/core/Core.cpp:625) On vide le repertoire temporaire
+DEBUG [2017-Oct-11 21:42:23](src/ui/wx/wxUICore.cpp:335) On previent qu'il n'y a pas de mise a jour
+DEBUG [2017-Oct-11 21:42:24](src/ui/wx/SkinnedWindow.cpp:225) Temps du clic : 2017-Oct-11 19:42:24  / Temps du prochain lancement possible 2017-Oct-11 19:42:22
+DEBUG [2017-Oct-11 21:42:24](src/ui/wx/SkinnedWindow.cpp:229) Lancement du jeu
+DEBUG [2017-Oct-22 04:49:37](src/core/Core.cpp:206) ########################### NEW UPLAUNCHER INSTANCE #######################################
+INFO  [2017-Oct-22 04:49:37](src/core/Core.cpp:216) Version de l'updater: 1.8 - dofus
+DEBUG [2017-Oct-22 04:49:37](src/core/Core.cpp:218) Chemin de l'exe /home/cypox/Projects/Dofus/official-client/Dofus1Linux/UpLauncher
+DEBUG [2017-Oct-22 04:49:37](src/core/Core.cpp:219) Rep d'execution /home/cypox/Projects/Dofus/official-client/Dofus1Linux
+DEBUG [2017-Oct-22 04:49:38](src/core/Core.cpp:258) parameters count : 1
+DEBUG [2017-Oct-22 04:49:38](src/core/Core.cpp:261) getExeFileDirectory : /home/cypox/Projects/Dofus/official-client/Dofus1Linux
+DEBUG [2017-Oct-22 04:49:38](src/core/Core.cpp:262) current_path: /home/cypox/Projects/Dofus/official-client/Dofus1Linux
+INFO  [2017-Oct-22 04:49:38](src/core/Core.cpp:470) Lecture des options
+DEBUG [2017-Oct-22 04:49:38](src/core/Options.cpp:183) isLangSet : true
+INFO  [2017-Oct-22 04:49:38](src/core/Core.cpp:492) Downloader launched
+DEBUG [2017-Oct-22 04:49:40](src/ui/wx/ResourcesManager.cpp:95) Check if font is present: Verdana
+DEBUG [2017-Oct-22 04:49:42](src/ui/wx/ResourcesManager.cpp:105) Using font : 74 Verdana
+DEBUG [2017-Oct-22 04:49:42](src/ui/wx/component/ScrollingPanel.cpp:35) Taille du bouton : 12
+DEBUG [2017-Oct-22 04:49:42](src/ui/wx/component/ScrollingPanel.cpp:35) Taille du bouton : 12
+DEBUG [2017-Oct-22 04:49:42](src/ui/wx/SkinnedWindow.cpp:111) List news : 0xf41f3b00  List logs : 0xf2e6c230
+TRACE [2017-Oct-22 04:49:42](src/patch/LocalGameConfig.cpp:39) Lecture du games.xml : /home/cypox/Projects/Dofus/official-client/Dofus1Linux/games.xml
+TRACE [2017-Oct-22 04:49:42](src/core/Core.cpp:814) Fichier de config distant demande : http://dl.ak.ankama.com/games/dofus/updater/linux/dofus_1.29.1.xml
+INFO  [2017-Oct-22 04:49:42](src/net/HttpFtpClient.cpp:333) On telecharge http://dl.ak.ankama.com/games/dofus/updater/linux/dofus_1.29.1.xml
+DEBUG [2017-Oct-22 04:49:42](src/net/HttpFtpClient.cpp:334) valeur des datas de sortie file: (nil)  -  string: 0xffa7ced8
+DEBUG [2017-Oct-22 04:49:42](src/net/HttpFtpClient.cpp:517) Before perform
+DEBUG [2017-Oct-22 04:49:43](src/net/HttpFtpClient.cpp:519) After perform
+INFO  [2017-Oct-22 04:49:43](src/net/HttpFtpClient.cpp:531) taille du fichier : 237.000000
+DEBUG [2017-Oct-22 04:49:43](src/net/HttpFtpClient.cpp:539) Before curl cleanup
+DEBUG [2017-Oct-22 04:49:43](src/net/HttpFtpClient.cpp:542) After curl cleanup
+DEBUG [2017-Oct-22 04:49:43](src/net/HttpFtpClient.cpp:546) Flushing datas
+INFO  [2017-Oct-22 04:49:43](src/net/HttpFtpClient.cpp:333) On telecharge http://www.dofus.com/en/rss/news.xml
+DEBUG [2017-Oct-22 04:49:43](src/net/HttpFtpClient.cpp:334) valeur des datas de sortie file: (nil)  -  string: 0xffa7cf78
+DEBUG [2017-Oct-22 04:49:43](src/net/HttpFtpClient.cpp:517) Before perform
+DEBUG [2017-Oct-22 04:49:43](src/net/HttpFtpClient.cpp:519) After perform
+INFO  [2017-Oct-22 04:49:43](src/net/HttpFtpClient.cpp:531) taille du fichier : 36870.000000
+DEBUG [2017-Oct-22 04:49:43](src/net/HttpFtpClient.cpp:539) Before curl cleanup
+DEBUG [2017-Oct-22 04:49:43](src/net/HttpFtpClient.cpp:542) After curl cleanup
+DEBUG [2017-Oct-22 04:49:43](src/net/HttpFtpClient.cpp:546) Flushing datas
+TRACE [2017-Oct-22 04:49:43](src/core/Core.cpp:625) On vide le repertoire temporaire
+DEBUG [2017-Oct-22 04:49:43](src/ui/wx/wxUICore.cpp:335) On previent qu'il n'y a pas de mise a jour
+DEBUG [2017-Oct-22 04:49:47](src/ui/wx/SkinnedWindow.cpp:225) Temps du clic : 2017-Oct-22 02:49:47  / Temps du prochain lancement possible 2017-Oct-22 02:49:42
+DEBUG [2017-Oct-22 04:49:47](src/ui/wx/SkinnedWindow.cpp:229) Lancement du jeu
+DEBUG [2017-Oct-22 04:53:58](src/core/Core.cpp:206) ########################### NEW UPLAUNCHER INSTANCE #######################################
+INFO  [2017-Oct-22 04:53:58](src/core/Core.cpp:216) Version de l'updater: 1.8 - dofus
+DEBUG [2017-Oct-22 04:53:58](src/core/Core.cpp:218) Chemin de l'exe /home/cypox/Projects/Dofus/official-client/Dofus1Linux/UpLauncher
+DEBUG [2017-Oct-22 04:53:58](src/core/Core.cpp:219) Rep d'execution /home/cypox/Projects/Dofus/official-client/Dofus1Linux
+DEBUG [2017-Oct-22 04:53:59](src/core/Core.cpp:258) parameters count : 1
+DEBUG [2017-Oct-22 04:53:59](src/core/Core.cpp:261) getExeFileDirectory : /home/cypox/Projects/Dofus/official-client/Dofus1Linux
+DEBUG [2017-Oct-22 04:53:59](src/core/Core.cpp:262) current_path: /home/cypox/Projects/Dofus/official-client/Dofus1Linux
+INFO  [2017-Oct-22 04:53:59](src/core/Core.cpp:470) Lecture des options
+DEBUG [2017-Oct-22 04:53:59](src/core/Options.cpp:183) isLangSet : true
+INFO  [2017-Oct-22 04:53:59](src/core/Core.cpp:492) Downloader launched
+DEBUG [2017-Oct-22 04:53:59](src/ui/wx/ResourcesManager.cpp:95) Check if font is present: Verdana
+DEBUG [2017-Oct-22 04:53:59](src/ui/wx/ResourcesManager.cpp:105) Using font : 74 Verdana
+DEBUG [2017-Oct-22 04:53:59](src/ui/wx/component/ScrollingPanel.cpp:35) Taille du bouton : 12
+DEBUG [2017-Oct-22 04:53:59](src/ui/wx/component/ScrollingPanel.cpp:35) Taille du bouton : 12
+DEBUG [2017-Oct-22 04:53:59](src/ui/wx/SkinnedWindow.cpp:111) List news : 0xf40fc2c8  List logs : 0xf2a54dc0
+TRACE [2017-Oct-22 04:53:59](src/patch/LocalGameConfig.cpp:39) Lecture du games.xml : /home/cypox/Projects/Dofus/official-client/Dofus1Linux/games.xml
+TRACE [2017-Oct-22 04:53:59](src/core/Core.cpp:814) Fichier de config distant demande : http://dl.ak.ankama.com/games/dofus/updater/linux/dofus_1.29.1.xml
+INFO  [2017-Oct-22 04:53:59](src/net/HttpFtpClient.cpp:333) On telecharge http://dl.ak.ankama.com/games/dofus/updater/linux/dofus_1.29.1.xml
+DEBUG [2017-Oct-22 04:53:59](src/net/HttpFtpClient.cpp:334) valeur des datas de sortie file: (nil)  -  string: 0xffee0818
+DEBUG [2017-Oct-22 04:53:59](src/net/HttpFtpClient.cpp:517) Before perform
+DEBUG [2017-Oct-22 04:53:59](src/net/HttpFtpClient.cpp:519) After perform
+INFO  [2017-Oct-22 04:53:59](src/net/HttpFtpClient.cpp:531) taille du fichier : 237.000000
+DEBUG [2017-Oct-22 04:53:59](src/net/HttpFtpClient.cpp:539) Before curl cleanup
+DEBUG [2017-Oct-22 04:53:59](src/net/HttpFtpClient.cpp:542) After curl cleanup
+DEBUG [2017-Oct-22 04:53:59](src/net/HttpFtpClient.cpp:546) Flushing datas
+INFO  [2017-Oct-22 04:53:59](src/net/HttpFtpClient.cpp:333) On telecharge http://www.dofus.com/en/rss/news.xml
+DEBUG [2017-Oct-22 04:53:59](src/net/HttpFtpClient.cpp:334) valeur des datas de sortie file: (nil)  -  string: 0xffee08b8
+DEBUG [2017-Oct-22 04:53:59](src/net/HttpFtpClient.cpp:517) Before perform
+DEBUG [2017-Oct-22 04:54:00](src/net/HttpFtpClient.cpp:519) After perform
+INFO  [2017-Oct-22 04:54:00](src/net/HttpFtpClient.cpp:531) taille du fichier : 36870.000000
+DEBUG [2017-Oct-22 04:54:00](src/net/HttpFtpClient.cpp:539) Before curl cleanup
+DEBUG [2017-Oct-22 04:54:00](src/net/HttpFtpClient.cpp:542) After curl cleanup
+DEBUG [2017-Oct-22 04:54:00](src/net/HttpFtpClient.cpp:546) Flushing datas
+TRACE [2017-Oct-22 04:54:00](src/core/Core.cpp:625) On vide le repertoire temporaire
+DEBUG [2017-Oct-22 04:54:00](src/ui/wx/wxUICore.cpp:335) On previent qu'il n'y a pas de mise a jour
+DEBUG [2017-Oct-22 04:54:03](src/ui/wx/SkinnedWindow.cpp:398) Envoie d'une commande de fermeture au wxCore
+DEBUG [2017-Oct-22 04:54:03](src/ui/wx/SysTrayIcon.cpp:33) Destructeur du SysTrayIcon
+DEBUG [2017-Oct-22 04:54:03](src/ui/wx/wxUICore.cpp:58) Destruction du wxUICore
+DEBUG [2017-Oct-22 04:54:03](src/core/Core.cpp:2240) Event recu : UI fermee. On stoppe les DL
+DEBUG [2017-Oct-22 04:54:03](src/net/Downloader.cpp:770) Thread du Downloader joignable
+DEBUG [2017-Oct-22 04:54:03](src/net/Downloader.cpp:785) Thread du Downloader termine
+INFO  [2017-Oct-22 04:54:03](src/core/Core.cpp:2597) Free System Mutex
+DEBUG [2017-Oct-22 04:54:03](src/net/Downloader.cpp:778) Thread du Downloader non joignable

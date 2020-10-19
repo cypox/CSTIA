@@ -1,0 +1,10 @@
+Choissiez l'un des deux dossiers suivant votre préférence 
+	- L'un avec les sorts en couleurs ( dans la barre des sorts)
+	- L'autre avec les sorts normaux ( ceux de base à 1.29)
+
+Ouvrez le dossier en question et copié les dossiers CLIPS et MODULES , 
+coller les dans le répertoire du jeu dofus 1.29 ( qui est de base : C:\Programmes Files\Dofus)
+A la question "voulez vous remplacer les fichiers par les nouveaux" répondez oui , 
+Essayez en Combat !! Have Fun
+--------------------------------------------------------------------------------
+				www.twitch.tv/Ecorcia

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+    <Proxy>
+        <proxy-enabled>0</proxy-enabled>
+        <proxy-url></proxy-url>
+        <proxy-port>0</proxy-port>
+        <proxy-login></proxy-login>
+        <proxy-password></proxy-password>
+        <proxy-type>3</proxy-type>
+    </Proxy>
+    <Report>
+        <reportAllowed>2</reportAllowed>
+        <reportNumber>0</reportNumber>
+        <gameName></gameName>
+        <comment></comment>
+    </Report>
+    <Setup>
+        <language>0</language>
+    </Setup>
+</Config>

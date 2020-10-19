@@ -1,0 +1,28 @@
+
+   					-----------Tutoriel------------
+	
+1- Choisisez le MenuAdmin que vous souhaitez utiliser et renommer le "MENUADMIN"
+		Exemple: MenuAdminv1 Je le renomme en MenuAdmin
+
+
+2-Après l'avoir Renommé, faites clique droit sur le MenuAdmin et copiez.
+
+
+3-Rendez-vous dans C:\Program Files\x 
+		x = Le dossier de votre serveur privé
+
+
+4-Puis copiez le dans votre dossier X
+
+
+5-Maintenant connectez vous et videz votre cache
+
+
+6- Maintenez shift (touche en dessous de la majuscule) et cliquez sur un joueur en même temps.
+
+
+
+				Voilà a vous de jouez maintenant ! :D
+
+
+
