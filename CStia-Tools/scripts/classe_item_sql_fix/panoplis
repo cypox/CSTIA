@@ -1,0 +1,1803 @@
+<div id="corps">
+<a indepth="true" class="lien" href="accpano.html">Revenir à la liste des panoplies</a>
+<br>
+<br>
+Panoplie lvl 150, elle comporte 5 éléments.<br>
+<br>
+<br>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 40</th>
+<th colspan="3" class="nom">Bonnet Nufar</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="bonnet_nufar.png" alt="Chargement de l'image ..."></td>
+<td class="ing">20 Ongle de kanigrou<br>10 Pinces de crustorail<br>10 Bulbe passoah<br>2 Pétales passoah<br>1 Etoffe corailleuse</td>
+<td colspan="2" class="effet">+ 15 dommages sur le sort "Sablier de Xelor"<br>Réduit de 1 le délai de relance du sort "Contre"<br>+ 30 aux CC sur le sort "Rayon Obscur"<br>Réduit de 1 le cout en PA du sort "Flou"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 80</th>
+<th colspan="3" class="nom">Cape Huchon</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="cape_huchon.png" alt="Chargement de l'image ..."></td>
+<td class="ing">71 Ongles de kanigrou<br>20 Etoffes de ouassingue<br>10 Ailes du Bitouf des plaines<br>10 Plumes de fesse u kido<br>4 Maillots de corps de barbroussa<br>4 Foulards du sparo<br>1 Etoffe de gourlo le terrible</td>
+<td colspan="2" class="effet">Réduit de 1 le cout en PA du sort "Momification"<br>Augmente la portée du sort "Vol du Temps" de 2<br>Augmente la portée du sort "Frappe de Xélor" de 1<br>Augmente de 1 le nb de lancer max par cible du sort "Gelure"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 100</th>
+<th colspan="3" class="nom">Bottes Hairo</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="botte_hairo.png" alt="Chargement de l'image ..."></td>
+<td class="ing">20 Moustache du Mufafah<br>20 Duvet du Kilibriss<br>10 Plume de fesse du kido<br>10 Plume du serpiplume<br>10 Ailes du bitouf des plaines<br>2 Criniére fleurie<br>1 Peau du rasboul majeur</td>
+<td colspan="2" class="effet">+1 PM<br>Rend la portée du sort "Aiguille Chercheuse" modifiable<br>Augmente la portée du sort "Contre" de 3<br>+ 25 aux CC sur le sort "Poussière Temporelle"<br>+ 25 aux CC sur le sort "Horloge"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 130</th>
+<th colspan="3" class="nom">Ceinture Lupine</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="ceinture_lupine.png" alt="Chargement de l'image ..."></td>
+<td class="ing">30 Bractée de chiendent<br>28 Sépale de nerbe<br>24 Calice de fecorce<br>20 Etamine de floribonde<br>18 Carpelle de brouture<br>2 Estomac de sanglier des plaines<br>2 Talon d'achille de l'abrakleur sombre<br>1 Ecorce du Tynril</td>
+<td colspan="2" class="effet">Augmente de 1 le nb de lancer max par tour du sort "Fuite"<br>Augmente la portée du sort "Protection Aveuglante" de 3<br>+ 30 aux CC sur le sort "Sablier de Xélor"<br>Désactive le lancer en ligne du sort "Flétrissement"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 150</th>
+<th colspan="3" class="nom">Anneau Tilus</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="anneau_tilus.png" alt="Chargement de l'image ..."></td>
+<td class="ing">18 Rembourrage de meupette<br>16 Croupion du bitouf aérien<br>5 Noeud de l'abrakleur clair<br>5 Coco du bitouf aérien<br>4 Coquille du kaskargo<br>3 Ecorce de floribonde<br>2 Epaulette de Troll<br>1 Chaussette du kimbo</td>
+<td colspan="2" class="effet">Augmente la portée du sort "Cadran de Xélor" de 3<br>Fixe à 10 le délai de relance du sort "Téléportation"<br>+ 15 dommages sur le sort "Aiguille"<br>Réduit de 1 le délai de relance du sort "Dévouement"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<br>
+<br>
+<table>
+<tbody><tr>
+<th class="plie">1 Items</th>
+<th class="plies">Aucun bonus</th>
+</tr>
+<tr>
+<th class="plie">2 Items</th>
+<th class="plies">+ 20 Force / + 20 Intelligence / + 20 Agilité / + 20 Chance / + 20 Sagesse<br>+100 Vitalité / +3 Dommages / +3 Soins / + 10 prospection</th>
+</tr>
+<tr>
+<th class="plie">3 Items</th>
+<th class="plies">+40 Force / +40 Intelligence / +40 Agilité / +40 Chance / +40 Sagesse<br>+ 200 Vitalité / +7 Dommages / +7 Soins / + 20 prospection</th>
+</tr>
+<tr>
+<th class="plie">4 Items</th>
+<th class="plies">+70 Force / +70 Intelligence / +70 Agilité / +70 Chance / +70 Sagesse<br>+500 Vitalité / +12 Dommages / +12 Soins / + 30 prospection / +1 invocation<br>5% Rés. neutre / 5% Rés. feu / 5% Rés. terre / 5% Rés. air / 5% Rés. eau</th>
+</tr>
+<tr>
+<th class="plie">5 Items</th>
+<th class="plies">+100 Force / +100 Intelligence / +100 Agilité / +100 Chance / +100 Sagesse<br>+800 Vitalité / + 20 Dommages / + 20 Soins / +40 prospection / +1 invocation<br>10% Rés. neutre / 10% Rés. feu / 10% Rés. terre / 10% Rés. air / 10% Rés. eau / +1 PA</th>
+</tr>
+</tbody></table>
+<br>
+<br>
+<p img="center">
+</p>
+<br>
+<br>
+<br>
+<a indepth="true" class="lien" href="accpano.html">Revenir à la liste des panoplies</a> </div>
+
+<div id="corps">
+<a indepth="true" class="lien" href="accpano.html">Revenir à la liste des panoplies</a>
+<br>
+<br>
+Panoplie lvl 150, elle comporte 5 éléments.<br>
+<br>
+<br>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 40</th>
+<th colspan="3" class="nom">Casque Keutumedi</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="casque_keutumedi.png" alt="Chargement de l'image ..."></td>
+<td class="ing">10 Bulbe kouraçao<br>10 Pince de crustorail<br>2 Moustache de mufafah<br>2 Pétale kouraçao<br>1 Etoffe corailleuse</td>
+<td colspan="2" class="effet">Réduit de 1 le coût en PA du sort "Epée Destructrice"<br>Augmente la portée du sort "Pression" de 1<br>Réduit de 1 le délai de relance du sort "Vitalité"<br>+ 25 aux CC sur le sort "Epée Divine"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 80</th>
+<th colspan="3" class="nom">Cape Aurale</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="cape_aurale.png" alt="Chargement de l'image ..."></td>
+<td class="ing">65 Oreilles de kanigrou<br>20 Etoffe de ouassingue<br>10 Ailes du bitouf des plaines<br>10 Plume de fesse du kido<br>4 Maillot de corps de barbroussa<br>4 Foulard du sparo<br>1 Etoffe de gourlo le terrible</td>
+<td colspan="2" class="effet">Désactive la ligne de vue du sort "Tempete"<br>Augmente la portée du sort "Intimidation" de 1<br>Réduit de 1 le coût en PA du sort "Compulsion"<br>Augmente la portée du sort "Bond" de 1</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 100</th>
+<th colspan="3" class="nom">Bottes Antrin</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="bottes_antrin.png" alt="Chargement de l'image ..."></td>
+<td class="ing">20 Moustaches du mufafah<br>20 Duvet du kilibriss<br>10 Plumes de fesse du kido<br>60 Queues de kolérat<br>10 Ailes du bitouf des plaines<br>2 Crinières fleuries<br>1 Peau de rasboul majeur</td>
+<td colspan="2" class="effet">+ 1 PM<br>Réduit de 1 le délai de relance du sort "Guide de Bravoure"<br>+ 45 aux CC sur le sort "Mutilation"<br>Rend la portée du sort "Epée du Jugement" modifiable<br>+ 30 dommages sur le sort "Epée de Iop"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 130</th>
+<th colspan="3" class="nom">Sangle Hynère</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="sangle_hynere.png" alt="Chargement de l'image ..."></td>
+<td class="ing">30 Bractée de chiendent<br>28 Sépale de nerbe<br>24 Calice de fécorce<br>20 Etamine de floribonde<br>18 Carpelle de brouture<br>10 Lait de dragodinde<br>2 Talon d'achille de l'abrakleur sombre<br>1 Ecorce de Tynril</td>
+<td colspan="2" class="effet">Augmente la portée du sort "Amplification" de 3<br>Augmente la portée du sort "Souffle" de 3<br>Augmente la portée du sort "Couper" de 3<br>Réduit de 1 le coût en PA du sort "Colère de Iop"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 150</th>
+<th colspan="3" class="nom">Bague Harre</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="bague_harre.png" alt="Chargement de l'image ..."></td>
+<td class="ing">18 Rembourrage de meupette<br>16 Croupion du bitouf aérien<br>5 Coco du bitouf aerien<br>5 Noeud de l'abrakleur clair<br>4 Ecorce de floribonde<br>4 Boule polie<br>4 Coquille du kaskargo<br>1 Chaussette du kimbo</td>
+<td colspan="2" class="effet">+ 25 aux CC sur le sort Epée du destin<br>Réduit de 1 le coût en PA du sort "Puissance"<br>+ 25 aux dommages sur le sort "Concentration"<br>Désactive la ligne de vue du sort "Epée Celeste"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<br>
+<br>
+<table>
+<tbody><tr>
+<th class="plie">1 Items</th>
+<th class="plies">Aucun bonus</th>
+</tr>
+<tr>
+<th class="plie">2 Items</th>
+<th class="plies">+ 20 Force / + 20 Intelligence / + 20 Agilité / + 20 Chance / + 20 Sagesse<br>+100 Vitalité / +3 Dommages / +3 Soins / + 10 prospection</th>
+</tr>
+<tr>
+<th class="plie">3 Items</th>
+<th class="plies">+40 Force / +40 Intelligence / +40 Agilité / +40 Chance / +40 Sagesse<br>+ 200 Vitalité / +7 Dommages / +7 Soins / + 20 prospection</th>
+</tr>
+<tr>
+<th class="plie">4 Items</th>
+<th class="plies">+70 Force / +70 Intelligence / +70 Agilité / +70 Chance / +70 Sagesse<br>+500 Vitalité / +12 Dommages / +12 Soins / + 30 prospection / +1 invocation<br>5% Rés. neutre / 5% Rés. feu / 5% Rés. terre / 5% Rés. air / 5% Rés. eau</th>
+</tr>
+<tr>
+<th class="plie">5 Items</th>
+<th class="plies">+100 Force / +100 Intelligence / +100 Agilité / +100 Chance / +100 Sagesse<br>+800 Vitalité / + 20 Dommages / + 20 Soins / +40 prospection / +1 invocation<br>10% Rés. neutre / 10% Rés. feu / 10% Rés. terre / 10% Rés. air / 10% Rés. eau / +1 PA</th>
+</tr>
+</tbody></table>
+<br>
+<br>
+<p img="center">
+</p>
+<br>
+<br>
+<br>
+<a indepth="true" class="lien" href="accpano.html">Revenir à la liste des panoplies</a> </div>
+
+<div id="corps">
+<a indepth="true" class="lien" href="accpano.html">Revenir à la liste des panoplies</a>
+<br>
+<br>
+Panoplie lvl 150, elle comporte 5 éléments.<br>
+<br>
+<br>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 40</th>
+<th colspan="3" class="nom">Bonnet Spairance</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="bonnet_spairance.png" alt="Chargement de l'image ..."></td>
+<td class="ing">16 Pointe de flèche du bwork archer<br>10 Pince de crustorail<br>10 Bulbe morito<br>2 Pétale mojito<br>1 Etoffe corailleuse</td>
+<td colspan="2" class="effet">Réduit de 1 le délai de relance du sort "Sacrifice"<br>Augmente de 1 le nb de lancer max par cible du sort "Attirance"<br>Désactive la ligne de vue du sort "Assaut"<br>Réduit de 1 le coût en PA du sort "Châtiment Vitalesque"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 80</th>
+<th colspan="3" class="nom">Cape Ytale</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="cape_ytale.png" alt="Chargement de l'image ..."></td>
+<td class="ing">20 Etoffe de ouassingue<br>15 Patte d'arakne majeur<br>10 Ailes de bitouf des plaines<br>10 Plume de fesse du kido<br>4 foulard du sparo<br>4 maillot de corps du barbroussa<br>1 Etoffe de gourlo le terrible</td>
+<td colspan="2" class="effet">Augmente la portée du sort "Transfert de Vie" de 2<br>Réduit de 2 le délai de relance du sort "Transposition"<br>Augmente la portée du sort "Furie" de 1<br>Réduit de 1 le coût en PA du sort "Châtiment Osé"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 100</th>
+<th colspan="3" class="nom">Tong Aclou</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="tong_aclou.png" alt="Chargement de l'image ..."></td>
+<td class="ing">20 Moustaches du mufafah<br>20 Duvet du kilibriss<br>10 Plumes de fesse du Kido<br>36 Mains de boo<br>10 Ailes du Bitouf des plaines<br>2 Crinières fleuries<br>1 Peau de Rasboul Majeur</td>
+<td colspan="2" class="effet">+1 PM<br>Réduit de 2 le délai de relance du sort "Epée Volante"<br>Réduit de 2 le délai de relance du sort "Coopération"<br>Rend la portée du sort "Absorption" modifiable<br>Réduit de 1 le coût en PA du sort "Châtiment Forcé"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 130</th>
+<th colspan="3" class="nom">Sangle Hans</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="sangle_hans.png" alt="Chargement de l'image ..."></td>
+<td class="ing">30 Bractée de chiendent<br>28 Sépale de nerbe<br>24 Calice du fécorce<br>20 Etamine de floribonde<br>18 Carpelle de brouture<br>2 Oeufs pourri<br>2 Talon d'achille de l'abrakleur sombre<br>1 Ecorce de Tynril</td>
+<td colspan="2" class="effet">+ 30 aux CC sur le sort "Folie Sanguinaire"<br>+Augmente la portée du sort "Détour" de 1<br>+ 30 aux CC sur le sort "Punition"<br>Réduit de 1 le coût en PA du sort "Châtiment Agile"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 150</th>
+<th colspan="3" class="nom">Anneau Pitale</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="anneau_pitale.png" alt="Chargement de l'image ..."></td>
+<td class="ing">18 Rembourrage de meupette<br>16 Croupion du bitouf aerien<br>5 Noeud de l'abrakleur clair<br>5 Coco du bitouf aerien<br>4 Coquille du kaskargo<br>3 ecorce de floribonde<br>3 Corail usé<br>1 Chaussette du kimbo</td>
+<td colspan="2" class="effet">Augmente la portée du sort "Transposition" de 4<br>Augmente la portée du sort "Dérobade" de 3<br>Augmente la portée du sort "Pied du Sacrieur" de 2<br>Réduit de 1 le coût en PA du sort "Châtiment Spirituel"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<br>
+<br>
+<table>
+<tbody><tr>
+<th class="plie">1 Items</th>
+<th class="plies">Aucun bonus</th>
+</tr>
+<tr>
+<th class="plie">2 Items</th>
+<th class="plies">+ 20 Force / + 20 Intelligence / + 20 Agilité / + 20 Chance / + 20 Sagesse<br>+100 Vitalité / +3 Dommages / +3 Soins / + 10 prospection</th>
+</tr>
+<tr>
+<th class="plie">3 Items</th>
+<th class="plies">+40 Force / +40 Intelligence / +40 Agilité / +40 Chance / +40 Sagesse<br>+ 200 Vitalité / +7 Dommages / +7 Soins / + 20 prospection</th>
+</tr>
+<tr>
+<th class="plie">4 Items</th>
+<th class="plies">+70 Force / +70 Intelligence / +70 Agilité / +70 Chance / +70 Sagesse<br>+500 Vitalité / +12 Dommages / +12 Soins / + 30 prospection / +1 invocation<br>5% Rés. neutre / 5% Rés. feu / 5% Rés. terre / 5% Rés. air / 5% Rés. eau</th>
+</tr>
+<tr>
+<th class="plie">5 Items</th>
+<th class="plies">+100 Force / +100 Intelligence / +100 Agilité / +100 Chance / +100 Sagesse<br>+800 Vitalité / + 20 Dommages / + 20 Soins / +40 prospection / +1 invocation<br>10% Rés. neutre / 10% Rés. feu / 10% Rés. terre / 10% Rés. air / 10% Rés. eau / +1 PA</th>
+</tr>
+</tbody></table>
+<br>
+<br>
+<p img="center">
+</p>
+<br>
+<br>
+<br>
+<a indepth="true" class="lien" href="accpano.html">Revenir à la liste des panoplies</a> </div>
+
+<div id="corps">
+<a indepth="true" class="lien" href="accpano.html">Revenir à la liste des panoplies</a>
+<br>
+<br>
+Panoplie lvl 150, elle comporte 5 éléments.<br>
+<br>
+<br>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 40</th>
+<th colspan="3" class="nom">Coiffe Fère</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="coiffe_fere.png" alt="Chargement de l'image ..."></td>
+<td class="ing">10 Bandeau de black tiwabbit<br>2 Bulbe Kouracao<br>10 Pince de crustorail<br>2 Pétale Kouracao<br>1 Etoffe corailleuse<br></td>
+<td colspan="2" class="effet">+ 15 dommages sur le sort "Mot Blessant"<br>+ 35 CC sur le sort "Mot Drainant"<br>Augmente la portée du sort "Mot de Frayeur" de 1<br>Désactive la ligne de vue du sort "Mot Revitalisant"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 80</th>
+<th colspan="3" class="nom">Cape Sulhit</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="cape_sulhit.png" alt="Chargement de l'image ..."></td>
+<td class="ing">20 Etoffe de ouassingue<br>10 Ailes du bitouf des plaines<br>10 Plume de fesse du kido<br>4 Maillot de corps de barbroussa<br>4 Foulard du sparo<br>1 Etoffe de gourlo le terrible<br>2 Queue de sanglier des plaines</td>
+<td colspan="2" class="effet">Augmente la portée du sort "Mot d'Epine" de 4<br>Augmente la portée du sort "Mot Interdit" de 1<br>Augmente la portée du sort "Mot de Prévention" de 2<br>Désactive la ligne de vue du sort "Mot d'Immobilisation"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 100</th>
+<th colspan="3" class="nom">Bottes Ulisme</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="botte_ulisme.png" alt="Chargement de l'image ..."></td>
+<td class="ing">20 Moustaches du mufafah<br>20 Duvet du kilibriss<br>10 Plumes de fesse du kido<br>10 Ailes du bitouf des plaines<br>2 Crinières fleuries<br>1 Peau de rasboul majeur<br>16 Souliers de Porkass</td>
+<td colspan="2" class="effet">+1 PM<br>Augmente la portée du sort "Mot de Silence" de 2<br>Augmente la portée du sort "Mot de Régénération" de 2<br>+ 15 soins sur le sort "Mot Soignant"<br>Augmente la portée du sort "Mot d'Envol" de 4</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 130</th>
+<th colspan="3" class="nom">Sangle Holon</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="sangle_holon.png" alt="Chargement de l'image ..."></td>
+<td class="ing">30 Bractée de chiendent<br>28 Sépale de nerbe<br>24 Calice de fécorce<br>20 Etamine de floribonde<br>18 Carpelle de brouture<br>2 Talon d'achille de l'abrakleur sombre<br>1 Ecorce de Tynril<br>2 Estomac de gloutovore</td>
+<td colspan="2" class="effet">Réduit de 1 le coût en PA du sort "Mot d'Altruisme"<br>+ 50 soins sur le sort "Mot de Sacrifice"<br>+ 30 CC sur le sort "Mot Vampirique"<br>+ 35 CC sur le sort "Mot Stimulant"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 150</th>
+<th colspan="3" class="nom">Anneau Zamour</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="anneau_zamour.png" alt="Chargement de l'image ..."></td>
+<td class="ing">18 Rembourrage de meupette<br>16 Croupion du bitouf aérien<br>5 Coco du bitouf aérien<br>5 Noeud de l'abrakleur clair<br>4 Coquille du kaskargo<br>4 Touffe rousse du flib<br>3 Ecorce de floribonde<br>1 Chaussette du kimbo</td>
+<td colspan="2" class="effet">Réduit de 1 le coût en PA du sort "Mot de Jouvence"<br>Augmente la portée du sort "Mot d'Amitié" de 2<br>+ 20 CC sur le sort "Mot Curatif"<br>Désactive le lancer en ligne du sort "Mot de Reconstitution"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<br>
+<br>
+<table>
+<tbody><tr>
+<th class="plie">1 Items</th>
+<th class="plies">Aucun bonus</th>
+</tr>
+<tr>
+<th class="plie">2 Items</th>
+<th class="plies">+ 20 Force / + 20 Intelligence / + 20 Agilité / + 20 Chance / + 20 Sagesse<br>+100 Vitalité / +3 Dommages / +3 Soins / + 10 prospection</th>
+</tr>
+<tr>
+<th class="plie">3 Items</th>
+<th class="plies">+40 Force / +40 Intelligence / +40 Agilité / +40 Chance / +40 Sagesse<br>+ 200 Vitalité / +7 Dommages / +7 Soins / + 20 prospection</th>
+</tr>
+<tr>
+<th class="plie">4 Items</th>
+<th class="plies">+70 Force / +70 Intelligence / +70 Agilité / +70 Chance / +70 Sagesse<br>+500 Vitalité / +12 Dommages / +12 Soins / + 30 prospection / +1 invocation<br>5% Rés. neutre / 5% Rés. feu / 5% Rés. terre / 5% Rés. air / 5% Rés. eau</th>
+</tr>
+<tr>
+<th class="plie">5 Items</th>
+<th class="plies">+100 Force / +100 Intelligence / +100 Agilité / +100 Chance / +100 Sagesse<br>+800 Vitalité / + 20 Dommages / + 20 Soins / +40 prospection / +1 invocation<br>10% Rés. neutre / 10% Rés. feu / 10% Rés. terre / 10% Rés. air / 10% Rés. eau / +1 PA</th>
+</tr>
+</tbody></table>
+<br>
+<br>
+<p img="center">
+</p>
+<br>
+<br>
+<br>
+<a indepth="true" class="lien" href="accpano.html">Revenir à la liste des panoplies</a> </div>
+
+
+<div id="corps">
+<a indepth="true" class="lien" href="accpano.html">Revenir à la liste des panoplies</a>
+<br>
+<br>
+<br>
+Panoplie lvl 150, elle comporte 5 éléments.<br>
+<br>
+<br>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 40</th>
+<th colspan="3" class="nom">Chapeau Grave</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="chapeau_grave.png" alt="Chargement de l'image ..."></td>
+<td class="ing">12 Dent de tofu maléfique<br>10 Bulbe morito<br>10 Pince de crustorail<br>2 Pétale mojito<br>1 Etoffe corailleuse</td>
+<td colspan="2" class="effet">Reduit de 2 le délai de relance du sort "concentration de Chakra"<br>Réduit de 1 le coup en PA du sort "Repérage"<br>Augmente la portée du sort "Piege de Masse" de 2<br>+ 15 de dommages sur le sort "Coup Sournois"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 80</th>
+<th colspan="3" class="nom">Cape Routh</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="cape_routh.png" alt="Chargement de l'image ..."></td>
+<td class="ing">20 Etoffe de ouassingue<br>10 Ailes du bitouf des plaines<br>10 Plume de fesse du kido<br>4 Maillot de corps de barbroussa<br>4 Foulard du sparo<br>1 Etoffe de gourlo le terrible<br>24 Bandeau du black tiwabbit</td>
+<td colspan="2" class="effet">Réduit de 1 le coup en PA du sort "Piège répulsif"<br>+ 30 aux CC sur le sort "Poison insidieux"<br>Augmente la portée du sort "Piege Sournois" de 3<br>Reduit de 1 le délai de relance du sort "Invisibilité"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 100</th>
+<th colspan="3" class="nom">Bottes Hox</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="bottes_hox.png" alt="Chargement de l'image ..."></td>
+<td class="ing">20 Moustaches du mufafah<br>20 Duvet du kilibriss<br>10 Plumes de fesse du kido<br>40 Oreilles de kolérat<br>10 Ailes du bitouf des plaines<br>2 Crinières fleuries<br>1 Peau de rasboul majeur</td>
+<td colspan="2" class="effet">+1 PM<br>+ 10 de dommages sur le sort "Sournoiserie"<br>Désactive le lancer en ligne du sort "Piege de Silence"<br>Augmente la portée du sort "Attaque Mortelle" de 1</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 130</th>
+<th colspan="3" class="nom">Sangle Glinglin</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="sangle_glinglin.png" alt="Chargement de l'image ..."></td>
+<td class="ing">30 Bractée de chiendent<br>28 Sépale de nerbe<br>24 Calice de fécorce<br>20 Etamine de floribonde<br>18 Carpelle de brouture<br>2 Talon d'achille de l'abrakleur sombre<br>1 Ecorce de Tynril<br>2 Carreau d'arbalete</td>
+<td colspan="2" class="effet">Réduit de 1 le coup en PA du sort "Invisibilité d'Autrui"<br>Augmente la portée du sort "Arnaque" de 2<br>Désactive le lancer en ligne du sort "Piege Mortel"<br>Augmente la portée du sort "Peur" de 1</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 150</th>
+<th colspan="3" class="nom">Anneau Hell</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="anneau_hell.png" alt="Chargement de l'image ..."></td>
+<td class="ing">18 Rembourrage de meupette<br>16 Croupion du bitouf aerien<br>5 Noeud de l'abrakleur clair<br>5 coco du bitouf aerien<br>4 Coquille du kaskargo<br>4 paille vampiresque<br>3 Ecorce de floribonde<br>1 Chaussette du kimbo</td>
+<td colspan="2" class="effet">Reduit de 1 le délai de relance du sort "Pulsion de Chakra"<br>Augmente la portée du sort "Double" de 1<br>Réduit de 1 le coup en PA du sort "Piege d'Immobilisation"<br>Réduit de 1 le coup en PA du sort "Piege de Silence"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<br>
+<br>
+<table>
+<tbody><tr>
+<th class="plie">1 Items</th>
+<th class="plies">Aucun bonus</th>
+</tr>
+<tr>
+<th class="plie">2 Items</th>
+<th class="plies">+ 20 Force / + 20 Intelligence / + 20 Agilité / + 20 Chance / + 20 Sagesse<br>+100 Vitalité / +3 Dommages / +3 Soins / + 10 prospection</th>
+</tr>
+<tr>
+<th class="plie">3 Items</th>
+<th class="plies">+40 Force / +40 Intelligence / +40 Agilité / +40 Chance / +40 Sagesse<br>+ 200 Vitalité / +7 Dommages / +7 Soins / + 20 prospection</th>
+</tr>
+<tr>
+<th class="plie">4 Items</th>
+<th class="plies">+70 Force / +70 Intelligence / +70 Agilité / +70 Chance / +70 Sagesse<br>+500 Vitalité / +12 Dommages / +12 Soins / + 30 prospection / +1 invocation<br>5% Rés. neutre / 5% Rés. feu / 5% Rés. terre / 5% Rés. air / 5% Rés. eau</th>
+</tr>
+<tr>
+<th class="plie">5 Items</th>
+<th class="plies">+100 Force / +100 Intelligence / +100 Agilité / +100 Chance / +100 Sagesse<br>+800 Vitalité / + 20 Dommages / + 20 Soins / +40 prospection / +1 invocation<br>10% Rés. neutre / 10% Rés. feu / 10% Rés. terre / 10% Rés. air / 10% Rés. eau / +1 PA</th>
+</tr>
+</tbody></table>
+<br>
+<br>
+<p img="center">
+</p>
+<br>
+<br>
+<br>
+<a indepth="true" class="lien" href="accpano.html">Revenir à la liste des panoplies</a> </div>
+
+
+<div id="corps">
+<a indepth="true" class="lien" href="accpano.html">Revenir à la liste des panoplies</a><br>
+<br>
+Panoplie lvl 150, elle comporte 5 éléments.<br>
+<br>
+<br>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 40</th>
+<th colspan="3" class="nom">Chapeau Tyron</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="chapeau_tyron.png" alt="Chargement de l'image ..."></td>
+<td class="ing">10 Bulbe malibout<br>10 Pince de crustorail<br>2 Pétale malibout<br>1 Etoffe corailleuse<br>12 boue du Boo</td>
+<td colspan="2" class="effet">+ 100 soins sur le sort "Ronce Apaisante"<br>+ 30 CC sur le sort "Larme"<br>Augmente la portée du sort "la folle" de 3<br>Désactive la ligne de vue du sort "Poison Paralysant"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 80</th>
+<th colspan="3" class="nom">Cape Hitton</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="cape_hitton.png" alt="Chargement de l'image ..."></td>
+<td class="ing">20 Etoffe de ouassingue<br>10 Ailes du bitouf des plaines<br>10 Plume de fesse du kido<br>4 Maillot de corps de barbroussa<br>4 Foulard du sparo<br>1 Etoffe de gourlo le terrible<br>16 Queues de scorbute</td>
+<td colspan="2" class="effet">Augmente la portée du sort "Tremblement" de 3<br>+ 15 dommages sur le sort "Ronce"<br>Augmente la portée du sort "Puissance Sylvestre" de 4<br>Rend la portée du sort "La Sacrifiée" modifiable</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 100</th>
+<th colspan="3" class="nom">Bottes Hanik</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="bottes_hanik.png" alt="Chargement de l'image ..."></td>
+<td class="ing">20 Moustaches du mufafah<br>20 Duvet du kilibriss<br>10 Plumes de fesse du kido<br>10 Ailes du bitouf des plaines<br>2 Crinières fleuries<br>1 Peau de rasboul majeur<br>25 Pattes de Wabbit</td>
+<td colspan="2" class="effet">+1 PM<br>Augmente la portée du sort "Sacrifice Poupesque" de 2<br>Augmente la portée du sort "Vent Empoisonné" de 3<br>Augmente la portée du sort "La Bloqueuse" de 2<br>Augmente de 1 le nb de lancé max par tour du sort "Ronces Multiples"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 130</th>
+<th colspan="3" class="nom">Ceinture Luthe</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="ceinture_luthe.png" alt="Chargement de l'image ..."></td>
+<td class="ing">30 Bractée de chiendent<br>28 Sépale de nerbe<br>24 Calice de fécorce<br>20 Etamine de floribonde<br>18 Carpelle de brouture<br>2 Talon d'achille de l'abrakleur sombre<br>1 Ecorce de Tynril<br>2 Dragolait</td>
+<td colspan="2" class="effet">Réduit de 2 le cout en PA du sort "Arbre"<br>+ 10 dommages sur le sort "Feu de Brousse"<br>Augmente la portée du sort "La Gonflable" de 3<br>Reduit de 1 le delai de relance du sort "Ronce Insolente"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 150</th>
+<th colspan="3" class="nom">Anneau Pwal</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="anneau_pwal.png" alt="Chargement de l'image ..."></td>
+<td class="ing">18 Rembourrage de meupette<br>16 Croupion de bitouf aérien<br>5 Coco du bitouf aérien<br>5 Noeud de l'Abrakleur clair<br>4 Barbe inexistante de Barbroussa<br>4 Coquille de karskargo<br>3 Ecorce de Floribonde<br>1 Chaussette du Kimbo</td>
+<td colspan="2" class="effet">Reduit de 3 le delai de relance du sort "Connaissance des Poupées"<br>+ 30 CC sur le sort "Ronces Agressives"<br>Reduit de 1 le delai de relance du sort "La Surpuissante"<br>Desactive la ligne de vue du sort "Herbe Folle"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<br>
+<br>
+<table>
+<tbody><tr>
+<th class="plie">1 Items</th>
+<th class="plies">Aucun bonus</th>
+</tr>
+<tr>
+<th class="plie">2 Items</th>
+<th class="plies">+ 20 Force / + 20 Intelligence / + 20 Agilité / + 20 Chance / + 20 Sagesse<br>+100 Vitalité / +3 Dommages / +3 Soins / + 10 prospection</th>
+</tr>
+<tr>
+<th class="plie">3 Items</th>
+<th class="plies">+40 Force / +40 Intelligence / +40 Agilité / +40 Chance / +40 Sagesse<br>+ 200 Vitalité / +7 Dommages / +7 Soins / + 20 prospection</th>
+</tr>
+<tr>
+<th class="plie">4 Items</th>
+<th class="plies">+70 Force / +70 Intelligence / +70 Agilité / +70 Chance / +70 Sagesse<br>+500 Vitalité / +12 Dommages / +12 Soins / + 30 prospection / +1 invocation<br>5% Rés. neutre / 5% Rés. feu / 5% Rés. terre / 5% Rés. air / 5% Rés. eau</th>
+</tr>
+<tr>
+<th class="plie">5 Items</th>
+<th class="plies">+100 Force / +100 Intelligence / +100 Agilité / +100 Chance / +100 Sagesse<br>+800 Vitalité / + 20 Dommages / + 20 Soins / +40 prospection / +1 invocation<br>10% Rés. neutre / 10% Rés. feu / 10% Rés. terre / 10% Rés. air / 10% Rés. eau / +1 PA</th>
+</tr>
+</tbody></table>
+<br>
+<br>
+<p img="center">
+</p>
+<br>
+<br>
+<br>
+<a indepth="true" class="lien" href="accpano.html">Revenir à la liste des panoplies</a> </div>
+
+
+<div id="corps">
+<a indepth="true" class="lien" href="accpano.html">Revenir à la liste des panoplies</a><br>
+<br>
+Panoplie lvl 150, elle comporte 5 éléments.<br>
+<br>
+<br>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 40</th>
+<th colspan="3" class="nom">Bonnet Toual</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="bonnet_toual.png" alt="Chargement de l'image ..."></td>
+<td class="ing">10 Bulbe morito<br>10 Pince de crustorail<br>2 Pétale morito<br>1 Etoffe corailleuse<br>4 Oeil de Kwoan</td>
+<td colspan="2" class="effet">Desactive la ligne de vue du sort "Aveuglement"<br>Rend la portée du sort "Glyphe Agressif" modifiable<br>+ 15 dommages sur le sort "Attaque Naturel"<br>Réduit de 1 le coup en PA du sort "Renvoi de sort"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 80</th>
+<th colspan="3" class="nom">Cape Hadosse</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="cape_hadosse.png" alt="Chargement de l'image ..."></td>
+<td class="ing">20 Etoffe de ouassingue<br>10 Ailes du bitouf des plaines<br>10 Plume de fesse du kido<br>4 Maillot de corps de barbroussa<br>4 Foulard du sparo<br>1 Etoffe de gourlo le terrible<br>11 oeils d'ouginiak</td>
+<td colspan="2" class="effet">Augmente de 1 le nb de lancer max par tour du sort "Bulle"<br>Augmente la portée du sort "Glyphe d'Aveuglement" de 1<br>Réduit de 1 le cout en PA du sort "Téleportation"<br>+ 30 aux CC sur le sort "Armure Terrestre"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 100</th>
+<th colspan="3" class="nom">Bottes Antouche</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="bottes_antouche.png" alt="Chargement de l'image ..."></td>
+<td class="ing">20 Moustaches du mufafah<br>20 Duvet du kilibriss<br>10 Plumes de fesse du kido<br>10 Ailes du bitouf des plaines<br>2 Crinières fleuries<br>1 Peau de rasboul majeur<br>23 Poils de pandule</td>
+<td colspan="2" class="effet">+1 PM<br>Désactive la ligne de vue du sort "Glyphe d'Immobilisation"<br>Désactive le lancer en ligne du sort "Attaque Nuageuse"<br>Rend la portée du sort "Immunité" modifiable<br>+ 30 aux CC sur le sort "Armure venteuse"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 130</th>
+<th colspan="3" class="nom">Gaine Hage</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="gaine_hage.png" alt="Chargement de l'image ..."></td>
+<td class="ing">30 Bractée de chiendent<br>28 Sépale de nerbe<br>24 calice de fécorce<br>20 etamine de floribonde<br>18 Carpelle de brouture<br>2 Talon d'achille de l'abrakleur sombre<br>1 Ecorce de Tynril<br>1 Ver d'eau</td>
+<td colspan="2" class="effet">Augmente la portée du sort "retour du Baton" de 1<br>Augmente la portée du sort "glyphe de Silence" de 1<br>Réduit de 1 le cout en PA du sort "Treve"<br>+ 30 aux CC sur le sort "Armure Incandescente"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 150</th>
+<th colspan="3" class="nom">Anneau Tassion</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="anneau_tassion.png" alt="Chargement de l'image ..."></td>
+<td class="ing">18 Rembourrage de meupette<br>16 Croupion du bitouf aérien<br>5 Noeud de l'abrakleur clair<br>5 Coco du bitouf aérien<br>4 faux menton du bourbassingue<br>4 Coquille du kaskargo<br>3 Ecorce de floribonde<br>1 Chaussette du kimbo</td>
+<td colspan="2" class="effet">Augmente la portée du sort "Science du baton" de 3<br>Augmente la portée du sort "Glyphe Enflammé" de 1<br>Réduit de 1 le cout en PA du sort "Bouclier feca"<br>+ 30 aux CC sur le sort "Armure Aqueuse"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<br>
+<br>
+<table>
+<tbody><tr>
+<th class="plie">1 Items</th>
+<th class="plies">Aucun bonus</th>
+</tr>
+<tr>
+<th class="plie">2 Items</th>
+<th class="plies">+ 20 Force / + 20 Intelligence / + 20 Agilité / + 20 Chance / + 20 Sagesse<br>+100 Vitalité / +3 Dommages / +3 Soins / + 10 prospection</th>
+</tr>
+<tr>
+<th class="plie">3 Items</th>
+<th class="plies">+40 Force / +40 Intelligence / +40 Agilité / +40 Chance / +40 Sagesse<br>+ 200 Vitalité / +7 Dommages / +7 Soins / + 20 prospection</th>
+</tr>
+<tr>
+<th class="plie">4 Items</th>
+<th class="plies">+70 Force / +70 Intelligence / +70 Agilité / +70 Chance / +70 Sagesse<br>+500 Vitalité / +12 Dommages / +12 Soins / + 30 prospection / +1 invocation<br>5% Rés. neutre / 5% Rés. feu / 5% Rés. terre / 5% Rés. air / 5% Rés. eau</th>
+</tr>
+<tr>
+<th class="plie">5 Items</th>
+<th class="plies">+100 Force / +100 Intelligence / +100 Agilité / +100 Chance / +100 Sagesse<br>+800 Vitalité / + 20 Dommages / + 20 Soins / +40 prospection / +1 invocation<br>10% Rés. neutre / 10% Rés. feu / 10% Rés. terre / 10% Rés. air / 10% Rés. eau / +1 PA</th>
+</tr>
+</tbody></table>
+<br>
+<br>
+<p img="center">
+</p>
+<br>
+<br>
+<br>
+<a indepth="true" class="lien" href="accpano.html">Revenir à la liste des panoplies</a> </div>
+
+
+<div id="corps">
+<a indepth="true" class="lien" href="accpano.html">Revenir à la liste des panoplies</a><br>
+<br>
+Panoplie lvl 150, elle comporte 5 éléments.<br>
+<br>
+<br>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 40</th>
+<th colspan="3" class="nom">Chapeau Taufeu</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="chapeau_taufeu.png" alt="Chargement de l'image ..."></td>
+<td class="ing">10 Bulbe passaoh<br>10 Pince de crustorail<br>2 Pétale passaoh<br>1 Etoffe corailleuse<br>2 Langue chef de guerre bouftou</td>
+<td colspan="2" class="effet">Augmente la portée du sort "Force de l'Age" de 1<br>+ 30 soins sur le sort "Boite de Pandore"<br>+ 20 dommages sur le sort "Pelle fantomatique"<br>Reduit de 2 le delai de relance du sort "Chance"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 80</th>
+<th colspan="3" class="nom">Cape Haharnum</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="cape_haharnum.png" alt="Chargement de l'image ..."></td>
+<td class="ing">20 Etoffe de ouassingue<br>10 Ailes du bitouf des plaines<br>10 Plume de fesse du kido<br>4 Maillot de corps de barbroussa<br>4 Foulard du sparo<br>1 Etoffe de gourlo le terrible<br>5 Langue de crabe</td>
+<td colspan="2" class="effet">Augmente la portée du sort "Sac Animé" de 4<br>+ 20 dommages sur le sort "Pelle du Jugement"<br>+ 20 dommages sur le sort "Remblai"<br>+ 30 aux CC sur le sort "Accélération"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 100</th>
+<th colspan="3" class="nom">Chaussures Lepon-Davignon</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="chaussures_lepon-davignon.png" alt="Chargement de l'image ..."></td>
+<td class="ing">20 Moustaches du mufafah<br>20 Duvet du kilibriss<br>10 Plumes de fesse du kido<br>10 Ailes du bitouf des plaines<br>2 Crinières fleuries<br>1 Peau de rasboul majeur<br>42 Ongles de Kanigrou</td>
+<td colspan="2" class="effet">+1 PM<br>+ 25 aux CC sur le sort "désinvocation"<br>Reduit de 1 le cout en PA du sort "Maladresse de Masse"<br>Reduit de 2 le cout en PA du sort "Coffre Animé"<br>+ 10 dommages sur le sort "Lancer de Pièce"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 130</th>
+<th colspan="3" class="nom">Ceinture Gessant</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="ceinture_gessant.png" alt="Chargement de l'image ..."></td>
+<td class="ing">30 Bractée de chiendent<br>28 Sépale de nerbe<br>24 calice de fécorce<br>20 Etamine de floribonde<br>18 Carpelle de brouture<br>2 Talon d'achille de l'abrakleur sombre<br>1 Ecorce de Tynril<br>1 Ver de terre</td>
+<td colspan="2" class="effet">+ 25 aux CC sur le sort "Roulage de pelle"<br>Augmente la portée du sort "Pelle Animé" de 6<br>+ 30 aux CC sur le sort "Pelle Massacrante"<br>Reduit de 1 le cout en PA du sort "Cupidité"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 150</th>
+<th colspan="3" class="nom">Anneau Stalgik</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="anneau_stalgik.png" alt="Chargement de l'image ..."></td>
+<td class="ing">18 Rembourrage de meupette<br>16 Croupion du bitouf aérien<br>5 Noeud de l'abrakleur clair<br>5 Coco du bitouf aérien<br>4 Barbe inexistante de barbroussa<br>4 Coquille du kaskargo<br>3 Ecorce de floribonde<br>1 Chaussette du kimbo</td>
+<td colspan="2" class="effet">+ 20 aux CC sur le sort "Lancer de Pelle"<br>Reduit de 1 le delai de relance du sort "Clé Reductrice"<br>Reduit de 1 le delai de relance du sort "Cupidité"<br>Augmente la portée du sort "Maladresse" de 1</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<br>
+<br>
+<table>
+<tbody><tr>
+<th class="plie">1 Items</th>
+<th class="plies">Aucun bonus</th>
+</tr>
+<tr>
+<th class="plie">2 Items</th>
+<th class="plies">+ 20 Force / + 20 Intelligence / + 20 Agilité / + 20 Chance / + 20 Sagesse<br>+100 Vitalité / +3 Dommages / +3 Soins / + 10 prospection</th>
+</tr>
+<tr>
+<th class="plie">3 Items</th>
+<th class="plies">+40 Force / +40 Intelligence / +40 Agilité / +40 Chance / +40 Sagesse<br>+ 200 Vitalité / +7 Dommages / +7 Soins / + 20 prospection</th>
+</tr>
+<tr>
+<th class="plie">4 Items</th>
+<th class="plies">+70 Force / +70 Intelligence / +70 Agilité / +70 Chance / +70 Sagesse<br>+500 Vitalité / +12 Dommages / +12 Soins / + 30 prospection / +1 invocation<br>5% Rés. neutre / 5% Rés. feu / 5% Rés. terre / 5% Rés. air / 5% Rés. eau</th>
+</tr>
+<tr>
+<th class="plie">5 Items</th>
+<th class="plies">+100 Force / +100 Intelligence / +100 Agilité / +100 Chance / +100 Sagesse<br>+800 Vitalité / + 20 Dommages / + 20 Soins / +40 prospection / +1 invocation<br>10% Rés. neutre / 10% Rés. feu / 10% Rés. terre / 10% Rés. air / 10% Rés. eau / +1 PA</th>
+</tr>
+</tbody></table>
+<br>
+<br>
+<p img="center">
+</p>
+<br>
+<br>
+<br>
+<a indepth="true" class="lien" href="accpano.html">Revenir à la liste des panoplies</a> </div>
+
+
+<div id="corps">
+<a indepth="true" class="lien" href="accpano.html">Revenir à la liste des panoplies</a><br>
+<br>
+Panoplie lvl 150, elle comporte 5 éléments.<br>
+<br>
+<br>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 40</th>
+<th colspan="3" class="nom">Capuche Apin</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="capuche_apin.png" alt="Chargement de l'image ..."></td>
+<td class="ing">10 Bulbe passaoh<br>10 Pince de crustorail<br>2 Pétale passaoh<br>1 Etoffe corailleuse<br>14 Canine mulou</td>
+<td colspan="2" class="effet">+ 25 aux CC sur le sort "Résistance Naturelle"<br>+ 30 aux CC sur le sort "Crapaud"<br>+ 10 dommages sur le sort "Corbeau"<br>Reduit de 1 le cout en PA du sort "Tofu"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 80</th>
+<th colspan="3" class="nom">Cape Lyne</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="cape_lyne.png" alt="Chargement de l'image ..."></td>
+<td class="ing">20 Etoffe de ouassingue<br>10 Ailes du bitouf des plaines<br>10 Plume de fesse du kido<br>4 Maillot de corps de barbroussa<br>4 Foulard du sparo<br>1 Etoffe de gourlo le terrible<br>6 Oeil de kolerat</td>
+<td colspan="2" class="effet">+ 25 aux CC sur le sort "Cri de l'Ours"<br>Reduit de 3 le délai de relance du sort "Benediction Animale"<br>Reduit de 1 le delai de relance du sort "Invocation de Bwork Mage"<br>Augmente de 1 le nb de lancer max par tour du sort "Fouet"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 100</th>
+<th colspan="3" class="nom">Bottes Swana</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="bottes_swana.png" alt="Chargement de l'image ..."></td>
+<td class="ing">20 Moustaches du mufafah<br>20 Duvet du kilibriss<br>10 Plumes de fesse du kido<br>10 Ailes du bitouf des plaines<br>2 Crinières fleuries<br>1 Peau de rasboul majeur<br>37 Feuilles de tronknyde</td>
+<td colspan="2" class="effet">+1 PM<br>+ 25 aux CC sur le sort "Piqure Motivante"<br>+ 30 aux soins sur le sort "Soin Animal"<br>Desactive la ligne de vue du sort "Invocation de Prespic"<br>Augmente la portée du sort "Frappe du Craqueleur" de 1</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 130</th>
+<th colspan="3" class="nom">Ceinture Bodiézèle</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="ceinture_bodiezele.png" alt="Chargement de l'image ..."></td>
+<td class="ing">30 Bractée de chiendent<br>28 Sépale de nerbe<br>24 calice de fécorce<br>24 etamine de floribonde<br>18 Carpelle de brouture<br>2 Talon d'achille de l'abrakleur sombre<br>1 Ecorce de Tynril<br>1 Chauve souris</td>
+<td colspan="2" class="effet">+ 25 CC sur le sort "Crocs du Mulou"<br>Réduit de 1 le cout en PA du sort "Sanglier"<br>+ 20 dommages sur le sort "Griffe Cinglante"<br>Reduit de 1 le cout en PA du sort "Invocation de Dragonnet Rouge"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 150</th>
+<th colspan="3" class="nom">Bague Héra</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="bague_hera.png" alt="Chargement de l'image ..."></td>
+<td class="ing">18 Rembourrage de meupette<br>19 Croupion de bitouf aérien<br>5 Noeud de l'abrakleur clair<br>5 Coco de bitouf aérien<br>4 Coquille de kaskargo<br>3 Ecorce de floribonde<br>3 Corail usé<br>1 Chaussette du kimbo</td>
+<td colspan="2" class="effet">Réduit de 1 le délai de relance du sort "Déplacement Félin"<br>Augmente la portée du sort "Invocation de Bouftou" de 2<br>+ 20 aux CC sur le sort "Griffe Spectrale"<br>Augmente la portée du sort "Invocation de Craqueleur" de 1</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<br>
+<br>
+<table>
+<tbody><tr>
+<th class="plie">1 Items</th>
+<th class="plies">Aucun bonus</th>
+</tr>
+<tr>
+<th class="plie">2 Items</th>
+<th class="plies">+ 20 Force / + 20 Intelligence / + 20 Agilité / + 20 Chance / + 20 Sagesse<br>+100 Vitalité / +3 Dommages / +3 Soins / + 10 prospection</th>
+</tr>
+<tr>
+<th class="plie">3 Items</th>
+<th class="plies">+40 Force / +40 Intelligence / +40 Agilité / +40 Chance / +40 Sagesse<br>+ 200 Vitalité / +7 Dommages / +7 Soins / + 20 prospection</th>
+</tr>
+<tr>
+<th class="plie">4 Items</th>
+<th class="plies">+70 Force / +70 Intelligence / +70 Agilité / +70 Chance / +70 Sagesse<br>+500 Vitalité / +12 Dommages / +12 Soins / + 30 prospection / +1 invocation<br>5% Rés. neutre / 5% Rés. feu / 5% Rés. terre / 5% Rés. air / 5% Rés. eau</th>
+</tr>
+<tr>
+<th class="plie">5 Items</th>
+<th class="plies">+100 Force / +100 Intelligence / +100 Agilité / +100 Chance / +100 Sagesse<br>+800 Vitalité / + 20 Dommages / + 20 Soins / +40 prospection / +1 invocation<br>10% Rés. neutre / 10% Rés. feu / 10% Rés. terre / 10% Rés. air / 10% Rés. eau / +1 PA</th>
+</tr>
+</tbody></table>
+<br>
+<br>
+<p img="center">
+</p>
+<br>
+<br>
+<br>
+<a indepth="true" class="lien" href="accpano.html">Revenir à la liste des panoplies</a> </div>
+
+
+<div id="corps">
+<a indepth="true" class="lien" href="accpano.html">Revenir à la liste des panoplies</a><br>
+<br>
+Panoplie lvl 150, elle comporte 5 éléments.<br>
+<br>
+<br>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 40</th>
+<th colspan="3" class="nom">Coiffe de Robbie Capuche</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="coiffe_de_robbie_capuche.png" alt="Chargement de l'image ..."></td>
+<td class="ing">10 Bulbe malibout<br>10 Pince de crustorail<br>2 Pétale malibout<br>1 Etoffe corailleuse<br>10 Bandeau du black tiwabbit</td>
+<td colspan="2" class="effet">Réduit de 1 le coût en PA du sort "Tir Eloigné"<br>Augmente de 1 le nombre de lancer max par cible du sort "Flèche Glacée"<br>Augmente de 1 le nombre de lancer max par cible du sort "Flèche d'Immobilisation"<br>Réduit de 1 le coût en PA du sort "Flèche d'Expiation"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 80</th>
+<th colspan="3" class="nom">Cape Hulco</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="cape_hulco.png" alt="Chargement de l'image ..."></td>
+<td class="ing">20 Etoffe de ouassingue<br>10 Ailes du bitouf des plaines<br>10 Plume de fesse du kido<br>4 Maillot de corps de barbroussa<br>4 Foulard du sparo<br>1 Etoffe de gourlo le terrible<br>6 Oeil de crabe</td>
+<td colspan="2" class="effet">Réduit de 1 le coût en PA du sort "Flèche Enflammée"<br>+ 25 CC sur le sort "Flèche Absorbante"<br>Réduit de 1 le délai de relance du sort "Tir Critique"<br>Désactive la ligne de vue du sort "Flèche Empoisonnée"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 100</th>
+<th colspan="3" class="nom">Bottes Deuradi</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="bottes_deuradi.png" alt="Chargement de l'image ..."></td>
+<td class="ing">20 Moustaches du mufafah<br>20 Duvet du kilibriss<br>10 Plumes de fesse du kido<br>10 Ailes du bitouf des plaines<br>2 Crinières fleuries<br>1 Peau de rasboul majeur<br>41 peaux de pandikaze</td>
+<td colspan="2" class="effet">+1 PM<br>Réduit de 1 le coût en PA du sort "Flèche Punitive"<br>Réduit de 1 le coût en PA du sort "Flèche Magique"<br>Réduit de 1 le coût en PA du sort "Flèche de Recul"<br>+ 30 aux CC sur le sort "Flèche Persécutrice"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 130</th>
+<th colspan="3" class="nom">Sangle Cible</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="sangle_cible.png" alt="Chargement de l'image ..."></td>
+<td class="ing">30 Bractée de chiendent<br>28 Sépale de nerbe<br>24 calice de fécorce<br>24 etamine de floribonde<br>18 Carpelle de brouture<br>2 Talon d'achille de l'abrakleur sombre<br>1 Ecorce de Tynril<br>1 Ver d'air</td>
+<td colspan="2" class="effet">Désactive le lancer en ligne du sort "Flèche Ralentissante"<br>Réduit de 1 le coût en PA du sort "Flèche Cinglante"<br>+ 30 aux CC sur le sort "Flèche Destructrice"<br>Réduit de 1 le délai de relance du sort "Tir Puissant"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 150</th>
+<th colspan="3" class="nom">Anneau Bhli</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="anneau_bhli.png" alt="Chargement de l'image ..."></td>
+<td class="ing">18 Rembourrage de meupette<br>19 Croupion de bitouf aérien<br>5 Noeud de l'abrakleur clair<br>5 Coco de bitouf aérien<br>4 Coquille de kaskargo<br>3 Ecorce de floribonde<br>4 Tourbe seché de tourbassingue<br>1 Chaussette du kimbo</td>
+<td colspan="2" class="effet">+ 30 aux CC sur le sort "Flèche Explosive"<br>Réduit de 1 le coût en PA du sort "Flèche Harcelante"<br>Réduit de 1 le coût en PA du sort "Oeil de Taupe"<br>Réduit de 1 le délai de relance du sort "Maîtrise de l'Arc"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<br>
+<br>
+<table>
+<tbody><tr>
+<th class="plie">1 Items</th>
+<th class="plies">Aucun bonus</th>
+</tr>
+<tr>
+<th class="plie">2 Items</th>
+<th class="plies">+ 20 Force / + 20 Intelligence / + 20 Agilité / + 20 Chance / + 20 Sagesse<br>+100 Vitalité / +3 Dommages / +3 Soins / + 10 prospection</th>
+</tr>
+<tr>
+<th class="plie">3 Items</th>
+<th class="plies">+40 Force / +40 Intelligence / +40 Agilité / +40 Chance / +40 Sagesse<br>+ 200 Vitalité / +7 Dommages / +7 Soins / + 20 prospection</th>
+</tr>
+<tr>
+<th class="plie">4 Items</th>
+<th class="plies">+70 Force / +70 Intelligence / +70 Agilité / +70 Chance / +70 Sagesse<br>+500 Vitalité / +12 Dommages / +12 Soins / + 30 prospection / +1 invocation<br>5% Rés. neutre / 5% Rés. feu / 5% Rés. terre / 5% Rés. air / 5% Rés. eau</th>
+</tr>
+<tr>
+<th class="plie">5 Items</th>
+<th class="plies">+100 Force / +100 Intelligence / +100 Agilité / +100 Chance / +100 Sagesse<br>+800 Vitalité / + 20 Dommages / + 20 Soins / +40 prospection / +1 invocation<br>10% Rés. neutre / 10% Rés. feu / 10% Rés. terre / 10% Rés. air / 10% Rés. eau / +1 PA</th>
+</tr>
+</tbody></table>
+<br>
+<br>
+<p img="center">
+</p>
+<br>
+<br>
+<br>
+<a indepth="true" class="lien" href="accpano.html">Revenir à la liste des panoplies</a> </div>
+
+
+
+<div id="corps">
+<a indepth="true" class="lien" href="accpano.html">Revenir à la liste des panoplies</a>
+<br>
+<br>
+Panoplie lvl 150, elle comporte 5 éléments.<br>
+<br>
+<br>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 40</th>
+<th colspan="3" class="nom">Chapeau Lithique</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="chapeau_lithique.png" alt="Chargement de l'image ..."></td>
+<td class="ing">20 poils kanigrou<br>10 Bulbe Kouracao<br>10 Pince de crustorail<br>2 Pétale Kouracao<br>1 Etoffe corailleuse<br></td>
+<td colspan="2" class="effet">+ 30 CC sur le sort "Picole"<br>Augmente de 1 le nb de lancer max par cible du sort "Epouvante"<br>+ 15 dommages sur le sort "Poing Enflammé"<br>+ 10 dommages sur le sort "Souffle Alcoolisé"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 80</th>
+<th colspan="3" class="nom">Cape Wéra</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="cape_wera.png" alt="Chargement de l'image ..."></td>
+<td class="ing">20 Etoffe de ouassingue<br>10 Ailes du bitouf des plaines<br>10 Plume de fesse du kido<br>4 Maillot de corps de barbroussa<br>4 Foulard du sparo<br>1 Etoffe de gourlo le terrible<br>7 Museau de kolerat</td>
+<td colspan="2" class="effet">Désactive la ligne de vue du sort "Vulnérabilité Venteuse"<br>Augmente la portée du sort "Souffle Alcoolisé" de 2<br>Désactive le lancer en ligne du sort "Stabilisation"<br>+ 15 dommages sur le sort "Flasque Explosive"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 100</th>
+<th colspan="3" class="nom">Getas Bernacle</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="getas_bernacle.png" alt="Chargement de l'image ..."></td>
+<td class="ing">20 Moustaches du mufafah<br>20 Duvet du kilibriss<br>10 Plumes de fesse du kido<br>10 Ailes du bitouf des plaines<br>2 Crinières fleuries<br>1 Peau de rasboul majeur<br>63 Oreilles de kanigrou</td>
+<td colspan="2" class="effet">+1 PM<br>Désactive la ligne de vue du sort "Vulnérabilité Aqueuse"<br>+ 35 CC sur le sort "Gueule de Bois"<br>+ 30 CC sur le sort "Flasque Explosive"<br>Réduit de 1 le cout en PA du sort "Colère de Zatoïshwan"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 130</th>
+<th colspan="3" class="nom">Sangle Huée</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="sangle_huee.png" alt="Chargement de l'image ..."></td>
+<td class="ing">30 Bractée de chiendent<br>28 Sépale de nerbe<br>24 Calice de fécorce<br>20 Etamine de floribonde<br>18 Carpelle de brouture<br>2 Talon d'achille de l'abrakleur sombre<br>1 Ecorce de Tynril<br>1 Ver de feu</td>
+<td colspan="2" class="effet">Désactive la ligne de vue du sort "Vulnérabilité Terrestre"<br>+ 25 CC sur le sort "Vague à Lame"<br>Augmente la portée du sort "Souillure" de 1<br>Augmente la portée du sort "Chamrak" de 1</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 150</th>
+<th colspan="3" class="nom">Anneau Raille</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="anneau_raille.png" alt="Chargement de l'image ..."></td>
+<td class="ing">18 Rembourrage de meupette<br>16 Croupion du bitouf aérien<br>5 Coco du bitouf aérien<br>5 Noeud de l'abrakleur clair<br>4 Coquille du kaskargo<br>4 Humerus du sparo<br>3 Ecorce de floribonde<br>1 Chaussette du kimbo</td>
+<td colspan="2" class="effet">Désactive la ligne de vue du sort "Vulnérabilité Incandescente"<br>+ 30 CC sur le sort "Pandatak"<br>Réduit de 3 le délai de relance du sort "Lien Spiritueux"<br>Désactive la ligne de vue du sort "Pandanlku"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<br>
+<br>
+<table>
+<tbody><tr>
+<th class="plie">1 Items</th>
+<th class="plies">Aucun bonus</th>
+</tr>
+<tr>
+<th class="plie">2 Items</th>
+<th class="plies">+ 20 Force / + 20 Intelligence / + 20 Agilité / + 20 Chance / + 20 Sagesse<br>+100 Vitalité / +3 Dommages / +3 Soins / + 10 prospection</th>
+</tr>
+<tr>
+<th class="plie">3 Items</th>
+<th class="plies">+40 Force / +40 Intelligence / +40 Agilité / +40 Chance / +40 Sagesse<br>+ 200 Vitalité / +7 Dommages / +7 Soins / + 20 prospection</th>
+</tr>
+<tr>
+<th class="plie">4 Items</th>
+<th class="plies">+70 Force / +70 Intelligence / +70 Agilité / +70 Chance / +70 Sagesse<br>+500 Vitalité / +12 Dommages / +12 Soins / + 30 prospection / +1 invocation<br>5% Rés. neutre / 5% Rés. feu / 5% Rés. terre / 5% Rés. air / 5% Rés. eau</th>
+</tr>
+<tr>
+<th class="plie">5 Items</th>
+<th class="plies">+100 Force / +100 Intelligence / +100 Agilité / +100 Chance / +100 Sagesse<br>+800 Vitalité / + 20 Dommages / + 20 Soins / +40 prospection / +1 invocation<br>10% Rés. neutre / 10% Rés. feu / 10% Rés. terre / 10% Rés. air / 10% Rés. eau / +1 PA</th>
+</tr>
+</tbody></table>
+<br>
+<br>
+<p img="center">
+</p>
+<br>
+<br>
+<br>
+<a indepth="true" class="lien" href="accpano.html">Revenir à la liste des panoplies</a> </div>
+
+
+<div id="corps">
+<a indepth="true" class="lien" href="accpano.html">Revenir à la liste des panoplies</a><br>
+<br>
+Panoplie lvl 150, elle comporte 5 éléments.<br>
+<br>
+<br>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 40</th>
+<th colspan="3" class="nom">Chapeau Leufère</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="chapeau_leufere.png" alt="Chargement de l'image ..."></td>
+<td class="ing">10 Bulbe malibout<br>10 Pince de crustorail<br>2 Pétale malibout<br>1 Etoffe corailleuse<br>10 oreille de kanigrou</td>
+<td colspan="2" class="effet">+ 25 CC sur le sort "Bluff"<br>+ 25 CC sur le sort "Pile ou Face"<br>Réduit de 1 le coût en PA du sort "Chance d'Ecaflip"<br>Augmente de 1 le nb de lancer max par tour du sort "Bond du Félin"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 80</th>
+<th colspan="3" class="nom">Cape Aillé</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="cape_aille.png" alt="Chargement de l'image ..."></td>
+<td class="ing">20 Etoffe de ouassingue<br>10 Ailes du bitouf des plaines<br>10 Plume de fesse du kido<br>4 Maillot de corps de barbroussa<br>4 Foulard du sparo<br>1 Etoffe de gourlo le terrible<br>65 Poils de kanigrou</td>
+<td colspan="2" class="effet">Augmente la portée du sort "Trèfle" de 4<br>+ 25 dommages sur le sort "Topkaj"<br>+ 30 dommages sur le sort "Destin d'Ecaflip"<br>Réduit de 1 le coût en PA du sort "Odorat"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 100</th>
+<th colspan="3" class="nom">Charentaises à poils</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="charentaises_a_poils.png" alt="Chargement de l'image ..."></td>
+<td class="ing">20 Moustaches du mufafah<br>20 Duvet du kilibriss<br>10 Plumes de fesse du kido<br>10 Ailes du bitouf des plaines<br>2 Crinières fleuries<br>1 Peau de rasboul majeur<br>60 Moustaches de kolerat</td>
+<td colspan="2" class="effet">+1 PM<br>Augmente la portée du sort "Roue de la Fortune" de 4<br>Réduit de 1 le coût en PA du sort "Griffe Invocatrice"<br>+ 30 CC sur le sort "Griffe Joueuse"<br>Augmente de 1 le nb de lancer max par tour du sort "Perception"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 130</th>
+<th colspan="3" class="nom">Ceinture Buhlent</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="ceinture_buhlent.png" alt="Chargement de l'image ..."></td>
+<td class="ing">30 Bractée de chiendent<br>28 Sépale de nerbe<br>24 calice de fécorce<br>24 etamine de floribonde<br>18 Carpelle de brouture<br>2 Talon d'achille de l'abrakleur sombre<br>1 Ecorce de Tynril<br>2 estomac de chef de guerre bouftou</td>
+<td colspan="2" class="effet">Désactive la ligne de vue du sort "Langue Râpeuse"<br>Augmente la portée du sort "Esprit Félin" de 1<br>Réduit de 1 le coût en PA du sort "Tout ou Rien"<br>Augmente la portée du sort "Réflexes" de 4</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<th class="niveau">Niveau 150</th>
+<th colspan="3" class="nom">Bague Houx</th>
+</tr>
+<tr>
+<th class="prix"></th>
+<th class="recette">Recettes :</th>
+<th colspan="2" class="carac">Caractéristiques :</th>
+</tr>
+<tr>
+<td class="screen"><img src="bague_houx.png" alt="Chargement de l'image ..."></td>
+<td class="ing">18 Rembourrage de meupette<br>19 Croupion de bitouf aérien<br>5 Noeud de l'abrakleur clair<br>5 Coco de bitouf aérien<br>4 Coquille de kaskargo<br>3 Ecorce de floribonde<br>6 Jus de ouassingue<br>1 Chaussette du kimbo</td>
+<td colspan="2" class="effet">+ 20 CC sur le sort "Griffe de Ceangal"<br>+ 15 dommages sur le sort "Rekop"<br>Réduit de 1 le délai de relance du sort "Contrecoup"<br>Réduit de 1 le délai de relance du sort "Roulette"</td>
+</tr>
+<tr>
+<th colspan="4" class="rem">Remarques :</th>
+</tr>
+<tr>
+<td colspan="4" class="marques"></td>
+</tr>
+</tbody></table>
+<br>
+<br>
+<table>
+<tbody><tr>
+<th class="plie">1 Items</th>
+<th class="plies">Aucun bonus</th>
+</tr>
+<tr>
+<th class="plie">2 Items</th>
+<th class="plies">+ 20 Force / + 20 Intelligence / + 20 Agilité / + 20 Chance / + 20 Sagesse<br>+100 Vitalité / +3 Dommages / +3 Soins / + 10 prospection</th>
+</tr>
+<tr>
+<th class="plie">3 Items</th>
+<th class="plies">+40 Force / +40 Intelligence / +40 Agilité / +40 Chance / +40 Sagesse<br>+ 200 Vitalité / +7 Dommages / +7 Soins / + 20 prospection</th>
+</tr>
+<tr>
+<th class="plie">4 Items</th>
+<th class="plies">+70 Force / +70 Intelligence / +70 Agilité / +70 Chance / +70 Sagesse<br>+500 Vitalité / +12 Dommages / +12 Soins / + 30 prospection / +1 invocation<br>5% Rés. neutre / 5% Rés. feu / 5% Rés. terre / 5% Rés. air / 5% Rés. eau</th>
+</tr>
+<tr>
+<th class="plie">5 Items</th>
+<th class="plies">+100 Force / +100 Intelligence / +100 Agilité / +100 Chance / +100 Sagesse<br>+800 Vitalité / + 20 Dommages / + 20 Soins / +40 prospection / +1 invocation<br>10% Rés. neutre / 10% Rés. feu / 10% Rés. terre / 10% Rés. air / 10% Rés. eau / +1 PA</th>
+</tr>
+</tbody></table>
+<br>
+<br>
+<p img="center">
+</p>
+<br>
+<br>
+<br>
+<a indepth="true" class="lien" href="accpano.html">Revenir à la liste des panoplies</a> </div>
