@@ -205,8 +205,8 @@ public class MountPark {
 	}
 
 	public int getOwner() {
-		//return this.owner;
-		return -1;
+		return this.owner;
+		//return -1;
 	}
 
 	public void setOwner(final int owner) {
