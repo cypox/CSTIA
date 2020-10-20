@@ -9,6 +9,7 @@ if len(sys.argv) != 1:
   print 'Incorrect number of arguments!'
   quit()
 
+#note: file_list is obtained using 'find lang/ -type f -name *.swf' in /ver/www/dofus/dofus (old server website)
 swf_tree = 'file_list'
 dest_folder = './dofus'
 prefix = 'http://dofusretro.cdn.ankama.com/'
@@ -21,12 +22,13 @@ swf_download = urllib.URLopener()
 with open(swf_tree) as f:
   for line in f:
     filename = line.rstrip()
-    if filename.split('/')[-1] != 'versions.swf':
-        retro_filename = filename.replace(filename.split('.')[0].split('_')[-1], '1011')
-    else:
-        retro_filename = filename
-    file_url = prefix + retro_filename
-    save_file = dest_folder + '/' + retro_filename
+    if 'Tuto' in filename or filename.split('.')[-1] == 'bu2' or filename.split('.')[-1] == 'html' or filename.split('.')[-1] == 'bu':
+      continue
+    version = filename.split('.')[0].split('_')[-1]
+    if version.isdigit():
+      filename = filename.replace(version, '1011')
+    file_url = prefix + filename
+    save_file = dest_folder + '/' + filename
     if ( not os.path.isfile(save_file) ):
       print file_url + ' ==> ' + save_file
       swf_download.retrieve(file_url, save_file)
