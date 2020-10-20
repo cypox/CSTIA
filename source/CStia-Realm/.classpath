@@ -2,28 +2,28 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/CStia-Source/libs/commons-cli-1.2.jar"/>
-	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/CStia-Source/libs/commons-cli-1.2-javadoc.jar"/>
-	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/CStia-Source/libs/commons-lang3-3.3.2.jar"/>
-	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/CStia-Source/libs/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/CStia-Source/libs/config-1.2.1.jar"/>
-	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/CStia-Source/libs/easymock-2.5.2.jar"/>
-	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/CStia-Source/libs/easymockclassextension-2.5.2.jar"/>
-	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/CStia-Source/libs/hamcrest-core-1.3.jar"/>
-	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/CStia-Source/libs/HikariCP-2.3.2.jar"/>
-	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/CStia-Source/libs/jansi-1.11.jar"/>
-	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/CStia-Source/libs/javassist-3.18.2-GA.jar"/>
-	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/CStia-Source/libs/jep.jar"/>
-	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/CStia-Source/libs/jmock-1.2.0.jar"/>
-	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/CStia-Source/libs/joda-time-2.6.jar"/>
-	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/CStia-Source/libs/junit-4.11.jar"/>
-	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/CStia-Source/libs/log4j-1.2.17.jar"/>
-	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/CStia-Source/libs/logback-classic-1.1.2.jar"/>
-	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/CStia-Source/libs/logback-core-1.1.2.jar"/>
-	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/CStia-Source/libs/mariadb-java-client-1.1.8.jar"/>
-	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/CStia-Source/libs/mina-core-2.0.9.jar"/>
-	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/CStia-Source/libs/mysql-connector-java-8.0.22.jar"/>
-	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/CStia-Source/libs/objenesis-2.1.jar"/>
-	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/CStia-Source/libs/slf4j-api-1.7.9.jar"/>
+	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/source/libs/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/source/libs/commons-cli-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/source/libs/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/source/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/source/libs/config-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/source/libs/easymock-2.5.2.jar"/>
+	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/source/libs/easymockclassextension-2.5.2.jar"/>
+	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/source/libs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/source/libs/HikariCP-2.3.2.jar"/>
+	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/source/libs/jansi-1.11.jar"/>
+	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/source/libs/javassist-3.18.2-GA.jar"/>
+	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/source/libs/jep.jar"/>
+	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/source/libs/jmock-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/source/libs/joda-time-2.6.jar"/>
+	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/source/libs/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/source/libs/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/source/libs/logback-classic-1.1.2.jar"/>
+	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/source/libs/logback-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/source/libs/mariadb-java-client-1.1.8.jar"/>
+	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/source/libs/mina-core-2.0.9.jar"/>
+	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/source/libs/mysql-connector-java-8.0.22.jar"/>
+	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/source/libs/objenesis-2.1.jar"/>
+	<classpathentry kind="lib" path="/home/cypox/personal/dofus/server/CStia/source/libs/slf4j-api-1.7.9.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

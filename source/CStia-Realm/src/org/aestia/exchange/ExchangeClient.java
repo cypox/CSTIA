@@ -82,6 +82,7 @@ public class ExchangeClient
                             final String key = s[1];
                             final int freePlaces = Integer.parseInt(s[2]);
                             final Server server = Server.get(id);
+                            // TODO: Should check if server is nill (SK1), should tel him that server is not found in database
                             if (!server.getKey().equals(key)) {
                                 this.send("SKR");
                                 this.kick();

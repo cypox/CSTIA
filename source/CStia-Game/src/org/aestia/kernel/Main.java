@@ -36,7 +36,7 @@ public class Main {
 	public static boolean fightAsBlocked = false;
 	public static boolean tradeAsBlocked = false;
 	public static String key = "demo";
-	public static int serverId = 1;
+	public static int serverId = 601; // Eratz ID in retro servers
 	public static int exchangePort = 666;
 	public static String exchangeIp = "127.0.0.1";
 	public static String loginHostDB = "127.0.0.1";
