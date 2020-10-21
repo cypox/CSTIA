@@ -1941,7 +1941,7 @@ public class SpellEffect {
 	}
 
 	private void applyEffect_293(final Fight fight) {
-		this.caster.addBuff(this.effectID, this.value, this.turns, 1, false, this.spell, this.args, this.caster, false);
+		this.caster.addBuff(this.effectID, this.value, this.turns + 1 /* this is so wrong, I added this to counteract the fact that we deduce one turn each time we pass a turn. without this, it will expire 1 turn earlier */, 1, false, this.spell, this.args, this.caster, false);
 	}
 
 	private void applyEffect_672(final ArrayList<Fighter> cibles, final Fight fight) {

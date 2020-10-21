@@ -2743,10 +2743,7 @@ public class CDefault extends Command {
 																				}
 																				if (command.equalsIgnoreCase(
 																						"RELOADMOUNTPARK")) {
-																					if (infos.length < 2)
-																					{
-																						return;
-																					}
+																					if (infos.length < 2) { return; }
 																					final int j = Integer
 																							.parseInt(infos[1]);
 																					World.reloadMountParks(j);

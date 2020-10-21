@@ -1131,12 +1131,15 @@ public class SocketManager {
 			final int cible, final int value, final String mParam2, final String mParam3, final String mParam4,
 			final int turn, final int spellID) {
 		final StringBuilder packet = new StringBuilder();
-		//int turns = turn-1;
-		//int turns = turn;
-		//if ( turns < 0 )
-		//	turns = 0;
+		int turns = turn;
+		if ( // This fixes the displayed remaining turns of the spell when clicking on the player icon
+			spellID == 159 ||  // colere de iop
+			spellID == 171 ||  // fleche punitive
+			spellID == 167     // fleche d'expitation
+			)
+			turns--;
 		packet.append("GIE").append(mType).append(";").append(cible).append(";").append(value).append(";")
-				.append(mParam2).append(";").append(mParam3).append(";").append(mParam4).append(";").append(turn)
+				.append(mParam2).append(";").append(mParam3).append(";").append(mParam4).append(";").append(turns)
 				.append(";").append(spellID);
 		for (final Fighter f : fight.getFighters(teams)) {
 			if (!f.hasLeft()) {
